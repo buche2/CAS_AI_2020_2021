@@ -91,7 +91,7 @@ Compute a gradient descent for a complex function and determine iteratively m an
 
 ## Theory
 
-[Pytorch gradients - trainer notebook](https://colab.research.google.com/drive/18OZn0m_B0wX08bNSEr0SCQc4bx1pE8ww?usp=sharing)
-[Exercice notebook](https://colab.research.google.com/drive/1mX60kg1XVWKzU6LKFZgNDA5_GGMf9UHT?usp=sharing)
+[Pytorch gradients - trainer notebook / ](https://colab.research.google.com/drive/18OZn0m_B0wX08bNSEr0SCQc4bx1pE8ww?usp=sharing)
+[exercice notebook](https://colab.research.google.com/drive/1mX60kg1XVWKzU6LKFZgNDA5_GGMf9UHT?usp=sharing)
 
 
