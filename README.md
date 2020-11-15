@@ -2,6 +2,13 @@
 
 CAS about artificial intelligence made at BFH in 2020 and 2021.
 
+- [CAS Artificial intelligence 2020-2021](#cas-artificial-intelligence-2020-2021)
+- [2020-10-20 Einführung in AI Grundtechniken: Gradient Descent,partielle Ableitungen, Matrix Algebra, AI Frameworks](#2020-10-20-einf-hrung-in-ai-grundtechniken--gradient-descent-partielle-ableitungen--matrix-algebra--ai-frameworks)
+  * [Theory](#theory)
+    + [General AI principle](#general-ai-principle)
+    + [Notes](#notes)
+  * [Home work](#home-work)
+
 # 2020-10-20 Einführung in AI Grundtechniken: Gradient Descent,partielle Ableitungen, Matrix Algebra, AI Frameworks
 
 ## Theory
