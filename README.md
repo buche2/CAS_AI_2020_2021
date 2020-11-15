@@ -1,13 +1,6 @@
 # CAS Artificial intelligence 2020-2021
 
 CAS about artificial intelligence made at BFH in 2020 and 2021.
-
-- [CAS Artificial intelligence 2020-2021](#cas-artificial-intelligence-2020-2021)
-- [2020-10-20 Einführung in AI Grundtechniken: Gradient Descent,partielle Ableitungen, Matrix Algebra, AI Frameworks](#2020-10-20-einf-hrung-in-ai-grundtechniken--gradient-descent-partielle-ableitungen--matrix-algebra--ai-frameworks)
-  * [Theory](#theory)
-    + [General AI principle](#general-ai-principle)
-    + [Notes](#notes)
-  * [Home work](#home-work)
   
 # Ressources
 
@@ -20,6 +13,12 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 ## Tutorial
 
 [Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+
+## Book
+
+1. Machine Learning, Tom Mitchell, McGraw Hill, 1997 http://www.cs.cmu.edu/~tom/mlbook.html
+2.	Deeplearning, Ian Goodfellow https://www.deeplearningbook.org/contents/mlp.html
+
 
 # 2020-10-20 Einführung in AI Grundtechniken: Gradient Descent,partielle Ableitungen, Matrix Algebra, AI Frameworks
 
