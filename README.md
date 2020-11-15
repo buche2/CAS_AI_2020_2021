@@ -20,7 +20,7 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
     + [Pytorch introduction](#pytorch-introduction)
     + [Notes](#notes-1)
   * [Homework](#homework)
-- [Fundamentale Neuronale Netze: MLP und Autoencoder](#fundamentale-neuronale-netze--mlp-und-autoencoder)
+- [2020-11-03 Fundamentale Neuronale Netze: MLP und Autoencoder](#2020-11-03 fundamentale-neuronale-netze--mlp-und-autoencoder)
   * [Theory](#theory-2)
   * [Homework](#homework-1)
 - [2020-11-10 Convolutional Neuronal Networks (CNN) und Variational Autoencoders (VAE)](#2020-11-10-convolutional-neuronal-networks--cnn--und-variational-autoencoders--vae-)
@@ -114,7 +114,7 @@ Compute a gradient descent for a complex function and determine iteratively m an
 - Change values N, D_in, H, D
 - Add a new layer/activation function with H hidden size
 
-# Fundamentale Neuronale Netze: MLP und Autoencoder
+# 2020-11-03 Fundamentale Neuronale Netze: MLP und Autoencoder
 
 ## Theory
 
