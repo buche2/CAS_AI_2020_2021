@@ -87,6 +87,11 @@ Compute a gradient descent for a complex function and determine iteratively m an
 - Change values N, D_in, H, D
 - Add a new layer/activation function with H hidden size
 
+# Fundamentale Neuronale Netze: MLP und Autoencoder
 
+## Theory
+
+[Pytorch gradients - trainer notebook](https://colab.research.google.com/drive/18OZn0m_B0wX08bNSEr0SCQc4bx1pE8ww?usp=sharing)
+[Exercice notebook](https://colab.research.google.com/drive/1mX60kg1XVWKzU6LKFZgNDA5_GGMf9UHT?usp=sharing)
 
 
