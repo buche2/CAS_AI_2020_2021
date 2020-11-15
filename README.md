@@ -7,6 +7,7 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 ## Data
 
 [Machine learning data repository](https://archive.ics.uci.edu/ml/datasets.php)
+[IRIS](https://gist.github.com/curran/a08a1080b88344b0c8a7)
 
 ## Videos
 
@@ -93,5 +94,30 @@ Compute a gradient descent for a complex function and determine iteratively m an
 
 [Pytorch gradients - trainer notebook / ](https://colab.research.google.com/drive/18OZn0m_B0wX08bNSEr0SCQc4bx1pE8ww?usp=sharing)
 [exercice notebook](https://colab.research.google.com/drive/1mX60kg1XVWKzU6LKFZgNDA5_GGMf9UHT?usp=sharing)
+
+[Pytorch linear regressions - trainer notebook / ](https://colab.research.google.com/drive/1pD88GTLZL5gWPSYUy0kBYn5nRXtgmrxw?usp=sharing)
+[exercice notebook](https://colab.research.google.com/drive/1_ciaDcHobrGikIfT7jj7XQjtpDV4YiD7?usp=sharing)
+
+[Pytorch NN - trainer notebook / ](https://colab.research.google.com/drive/1ZR6taszFoUqR21yx855uNHNseSL0CSyC?usp=sharing)
+[exercice notebook](https://colab.research.google.com/drive/16vH91qnn5Ha5xOa-2AYTegq48rXDx88r?usp=sharing)
+
+[Pytorch datasets management - trainer notebook / ](https://colab.research.google.com/drive/1___ATZ-PS960ZztS39iuBDu-4oZktmAW?usp=sharing)
+[exercice notebook](https://colab.research.google.com/drive/1dPCuyNFAf1Iy-mRzLu8C13ABG1DsDyLL?usp=sharing)
+
+[Tensorflow quickstart for experts - trainer notebook / ](https://colab.research.google.com/drive/1wytjvqaDjSheG0fhmw2TWRW3RsooXS8i?usp=sharing)
+[exercice notebook](https://colab.research.google.com/drive/1bQIroEU6h0w02WrRJzdR0xgFIJ0IminM?usp=sharing)
+
+[Tensorflow autoencoder - trainer notebook / ](https://colab.research.google.com/drive/1ZuDM5AusueBZ9twN6IVVB3vZQPQFSS0F?usp=sharing)
+[exercice notebook](https://colab.research.google.com/drive/1uUaSvh7-BXcQdgxF0AbCFWiWwOnPNd-E?usp=sharing)
+
+## Homework
+
+Migrate Iris exercice to Tensorflow: https://colab.research.google.com/drive/1gPMNk24EuvBKun5oCfV_mGrCtUA2rmoy?usp=sharing
+
+
+
+
+
+
 
 
