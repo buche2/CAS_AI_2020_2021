@@ -20,7 +20,7 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
     + [Pytorch introduction](#pytorch-introduction)
     + [Notes](#notes-1)
   * [Homework](#homework)
-- [2020-11-03 Fundamentale Neuronale Netze: MLP und Autoencoder](#2020-11-03 fundamentale-neuronale-netze--mlp-und-autoencoder)
+- [2020-11-03 Fundamentale Neuronale Netze: MLP und Autoencoder](#2020-11-03-fundamentale-neuronale-netze--mlp-und-autoencoder)
   * [Theory](#theory-2)
   * [Homework](#homework-1)
 - [2020-11-10 Convolutional Neuronal Networks (CNN) und Variational Autoencoders (VAE)](#2020-11-10-convolutional-neuronal-networks--cnn--und-variational-autoencoders--vae-)
