@@ -114,6 +114,24 @@ Compute a gradient descent for a complex function and determine iteratively m an
 
 Migrate Iris exercice to Tensorflow: https://colab.research.google.com/drive/1gPMNk24EuvBKun5oCfV_mGrCtUA2rmoy?usp=sharing
 
+# 2020-11-10 Convolutional Neuronal Networks (CNN) und Variational Autoencoders (VAE)
+
+## Theory
+
+[Tensorflow Stacked MLP autoencode - trainer notebook / ](https://colab.research.google.com/drive/1ZuDM5AusueBZ9twN6IVVB3vZQPQFSS0F?usp=sharing)
+[exercice notebook](https://colab.research.google.com/drive/1tSKesyDf2vdsWogCkLNZ_dvjQBYGSrwy?usp=sharing)
+
+## Homework
+
+[Original autoencoder for ECG validation](https://colab.research.google.com/drive/1SrKSrs4m_D3SqKG2ffJCOQnobQE3atWg?usp=sharing)
+
+[A Gentle Introduction to Anomaly Detection with Autoencoders](https://anomagram.fastforwardlabs.com/#/)
+
+Goal of the exercice is to use another data set: 
+[Anomaly detection for credit card with autoencoder](https://colab.research.google.com/drive/1qVjOp5hCO_vGkW8L_koCyNHXrvYT-VJj#scrollTo=SNQib7gi6nzE)
+
+
+
 
 
 
