@@ -20,6 +20,8 @@ An unlabeled example contains features but not the label.
 
 Once we've trained our model with labeled examples, we use that model to predict the label on unlabeled examples.
 
+General AI equation: Y = wX + b
+
 ### Gradient descent
 
 ## Ressources
