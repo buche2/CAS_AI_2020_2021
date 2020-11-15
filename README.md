@@ -69,13 +69,12 @@ General AI function: Y = wX + b
 
 ### Notes
 
-![Neuron](https://drive.google.com/uc?export=view&id=1DwdFEqoWczZEbDKUhDQhCEMDo7SZGNxr)
-![General AI function](https://drive.google.com/uc?export=view&id=14XPXX2nXUVCz81rqK5ckGQ5UzJRzR-fC)
-![General AI function](https://drive.google.com/uc?export=view&id=1_XggjXSH_h0OYAoQxD_dQrs1g09yZKHu)
-![Chain rule](https://drive.google.com/uc?export=view&id=1Vp2-yuAsETZs7lAdVvE_PE0WD31uEUkb)
-![m derivative](https://drive.google.com/uc?export=view&id=19go_kg4CVdg-1tcDrP1LjFkeq5aX0mYq)
-![MSE / loss](https://drive.google.com/uc?export=view&id=1uTUqh4q_4N3ol0JtYLidJMlltD9HkcP6)
-![Activation function](https://drive.google.com/uc?export=view&id=1hTFvIL_e87F1OMQ9nM2vrFPBVbuRunDD)
+|Doc| |
+|-|-|
+| ![Neuron](https://drive.google.com/uc?export=view&id=1DwdFEqoWczZEbDKUhDQhCEMDo7SZGNxr) | ![General AI function](https://drive.google.com/uc?export=view&id=14XPXX2nXUVCz81rqK5ckGQ5UzJRzR-fC) | 
+| ![General AI function](https://drive.google.com/uc?export=view&id=1_XggjXSH_h0OYAoQxD_dQrs1g09yZKHu) | ![Chain rule](https://drive.google.com/uc?export=view&id=1Vp2-yuAsETZs7lAdVvE_PE0WD31uEUkb) |
+| ![m derivative](https://drive.google.com/uc?export=view&id=19go_kg4CVdg-1tcDrP1LjFkeq5aX0mYq) | ![MSE / loss](https://drive.google.com/uc?export=view&id=1uTUqh4q_4N3ol0JtYLidJMlltD9HkcP6) |
+| ![Activation function](https://drive.google.com/uc?export=view&id=1hTFvIL_e87F1OMQ9nM2vrFPBVbuRunDD) |
 
 ## Home work
 
@@ -101,12 +100,11 @@ Compute a gradient descent for a complex function and determine iteratively m an
 
 ### Notes
 
-![Neocortex](https://drive.google.com/uc?export=view&id=1dzMwhtuwjrwrd1cdhPcDTfqMJOMUbWzg)
-![Neocortex](https://drive.google.com/uc?export=view&id=1_SbVgl-HMgXQv3-EM57a7GsVO_sRbwVr)
-![Activation function](https://drive.google.com/uc?export=view&id=13pAh_1bmVCckd8cK2VKRzE6vD3wWpo5C)
-![Activation function](https://drive.google.com/uc?export=view&id=1XCWJ6CLFizXwzTh6Ioz-pBn56zwQrZoN)
-![AI Neuronal network](https://drive.google.com/uc?export=view&id=1epAEvP662CtCbPLLPN9PxloO6fWidZGF)
-![AI Neuronal network: encoder](https://drive.google.com/uc?export=view&id=1xDGYZdWf1wBDwS0w3WGAQN9tw-m9U0Qx)
+|Doc| |
+|-|-|
+| ![Neocortex](https://drive.google.com/uc?export=view&id=1dzMwhtuwjrwrd1cdhPcDTfqMJOMUbWzg) | ![Neocortex](https://drive.google.com/uc?export=view&id=1_SbVgl-HMgXQv3-EM57a7GsVO_sRbwVr) |
+| ![Activation function](https://drive.google.com/uc?export=view&id=13pAh_1bmVCckd8cK2VKRzE6vD3wWpo5C) | ![Activation function](https://drive.google.com/uc?export=view&id=1XCWJ6CLFizXwzTh6Ioz-pBn56zwQrZoN) |
+| ![AI Neuronal network](https://drive.google.com/uc?export=view&id=1epAEvP662CtCbPLLPN9PxloO6fWidZGF) | ![AI Neuronal network: encoder](https://drive.google.com/uc?export=view&id=1xDGYZdWf1wBDwS0w3WGAQN9tw-m9U0Qx) |
 
 ## Homework
 
