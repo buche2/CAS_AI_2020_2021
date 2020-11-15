@@ -90,5 +90,3 @@ Compute a gradient descent for a complex function and determine iteratively m an
 
 
 
-
-
