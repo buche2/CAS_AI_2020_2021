@@ -66,6 +66,7 @@ Compute a gradient descent for a complex function and determine iteratively m an
 ### Tensorflow introduction
 
 [Tensorflow quickstart for beginners](https://colab.research.google.com/drive/1DljkM90FBgpx0PwvopJ3t-Or30y5noST?usp=sharing)
+
 [Predict fuel efficiency with a Tensorfol regressition. Dataset: MPG](https://colab.research.google.com/drive/1b3qdzQkU7cEh8jlbc7q5QurSJIV4u5tp?usp=sharing)
 
 ### Pytorch introduction
