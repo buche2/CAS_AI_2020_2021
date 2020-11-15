@@ -24,7 +24,7 @@ General AI equation: Y = wX + b
 
 ### Notes
 
-![Neuron](https://drive.google.com/file/d/1DwdFEqoWczZEbDKUhDQhCEMDo7SZGNxr/preview)
+![Neuron](https://drive.google.com/uc?export=view&id=1DwdFEqoWczZEbDKUhDQhCEMDo7SZGNxr)
 
 ### Gradient descent
 
