@@ -22,6 +22,10 @@ Once we've trained our model with labeled examples, we use that model to predict
 
 General AI equation: Y = wX + b
 
+### Notes
+
+![Neuron](https://drive.google.com/file/d/1DwdFEqoWczZEbDKUhDQhCEMDo7SZGNxr/preview)
+
 ### Gradient descent
 
 ## Ressources
