@@ -8,6 +8,18 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
     + [General AI principle](#general-ai-principle)
     + [Notes](#notes)
   * [Home work](#home-work)
+  
+# Ressources
+
+## Data
+
+[Machine learning data repository](https://archive.ics.uci.edu/ml/datasets.php)
+
+## Videos
+
+## Tutorial
+
+[Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 
 # 2020-10-20 Einführung in AI Grundtechniken: Gradient Descent,partielle Ableitungen, Matrix Algebra, AI Frameworks
 
@@ -42,3 +54,32 @@ General AI function: Y = wX + b
 ## Home work
 
 Compute a gradient descent for a complex function and determine iteratively m and b: [Colab](https://colab.research.google.com/drive/1PMeiTzdSRWs6JGV14g-OoAHgNkGns458#scrollTo=4h5c2kvByWnu)
+
+# 2020-10-26 Tensorflow und PyTorch Frameworks
+
+## Theory
+
+### Data loading
+
+[Loading data in Colab](https://colab.research.google.com/drive/1nKFULrpkmL9GVfBcQFhPHljPzBt99oNm?usp=sharing)
+
+### Tensorflow introduction
+
+[Tensorflow quickstart for beginners](https://colab.research.google.com/drive/1DljkM90FBgpx0PwvopJ3t-Or30y5noST?usp=sharing)
+[Predict fuel efficiency with a Tensorfol regressition. Dataset: MPG](https://colab.research.google.com/drive/1b3qdzQkU7cEh8jlbc7q5QurSJIV4u5tp?usp=sharing)
+
+### Pytorch introduction
+
+[Pytorch quickstart for beginners](https://colab.research.google.com/drive/1xgmYHV9uOi02jOy1qmhj5HsizxYQ4S9C?usp=sharing)
+
+## Homework
+
+[Pytorch two layers NN](https://colab.research.google.com/drive/1MA56h5oApLPNRhnhiL4DRq788RRj6UD6?usp=sharing)
+- Change values N, D_in, H, D
+- Add a new layer/activation function with H hidden size
+
+
+
+
+
+
