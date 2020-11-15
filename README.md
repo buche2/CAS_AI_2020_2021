@@ -9,10 +9,15 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 ### General AI principle
 
 Y: A label is the thing we're predicting
+
 X: A feature is an input variable (can be a list)
+
 x: An example is a particular instance of data (a vector of values for a feature)
+
 A labeled example includes both feature(s) and the label.
+
 An unlabeled example contains features but not the label.
+
 Once we've trained our model with labeled examples, we use that model to predict the label on unlabeled examples.
 
 ### Gradient descent
