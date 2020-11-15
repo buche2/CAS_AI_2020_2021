@@ -20,13 +20,12 @@ An unlabeled example contains features but not the label.
 
 Once we've trained our model with labeled examples, we use that model to predict the label on unlabeled examples.
 
-General AI equation: Y = wX + b
+General AI function: Y = wX + b
 
 ### Notes
 
 ![Neuron](https://drive.google.com/uc?export=view&id=1DwdFEqoWczZEbDKUhDQhCEMDo7SZGNxr)
-
-### Gradient descent
+![General AI function](https://drive.google.com/uc?export=view&id=14XPXX2nXUVCz81rqK5ckGQ5UzJRzR-fC)
 
 ## Ressources
 
