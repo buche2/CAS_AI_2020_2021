@@ -121,6 +121,10 @@ Migrate Iris exercice to Tensorflow: https://colab.research.google.com/drive/1gP
 [Tensorflow Stacked MLP autoencode - trainer notebook / ](https://colab.research.google.com/drive/1ZuDM5AusueBZ9twN6IVVB3vZQPQFSS0F?usp=sharing)
 [exercice notebook](https://colab.research.google.com/drive/1tSKesyDf2vdsWogCkLNZ_dvjQBYGSrwy?usp=sharing)
 
+### Notes
+
+[Notes as PDF](https://drive.google.com/file/d/1UueiU2uD6rlEkXy6degJgurlpciWgLl8/view?usp=sharing)
+
 ## Homework
 
 [Original autoencoder for ECG validation](https://colab.research.google.com/drive/1SrKSrs4m_D3SqKG2ffJCOQnobQE3atWg?usp=sharing)
