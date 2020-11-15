@@ -72,6 +72,15 @@ Compute a gradient descent for a complex function and determine iteratively m an
 
 [Pytorch quickstart for beginners](https://colab.research.google.com/drive/1xgmYHV9uOi02jOy1qmhj5HsizxYQ4S9C?usp=sharing)
 
+### Notes
+
+![Neocortex](https://drive.google.com/uc?export=view&id=1dzMwhtuwjrwrd1cdhPcDTfqMJOMUbWzg)
+![Neocortex](https://drive.google.com/uc?export=view&id=1_SbVgl-HMgXQv3-EM57a7GsVO_sRbwVr)
+![Activation function](https://drive.google.com/uc?export=view&id=13pAh_1bmVCckd8cK2VKRzE6vD3wWpo5C)
+![Activation function](https://drive.google.com/uc?export=view&id=1XCWJ6CLFizXwzTh6Ioz-pBn56zwQrZoN)
+![AI Neuronal network](https://drive.google.com/uc?export=view&id=1epAEvP662CtCbPLLPN9PxloO6fWidZGF)
+![AI Neuronal network: encoder](https://drive.google.com/uc?export=view&id=1xDGYZdWf1wBDwS0w3WGAQN9tw-m9U0Qx)
+
 ## Homework
 
 [Pytorch two layers NN](https://colab.research.google.com/drive/1MA56h5oApLPNRhnhiL4DRq788RRj6UD6?usp=sharing)
