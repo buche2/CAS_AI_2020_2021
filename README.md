@@ -151,6 +151,19 @@ Goal of the exercice is to use another data set:
 
 ### Notes
 
+## Homework
+
+1. Basierend auf dem vorliegenden [Notebook](https://colab.research.google.com/drive/17zT9lYKsnIbyxbLKwwJzIh292r1zkJKP#scrollTo=eMTx8CpYOjyt), VAE mit den ECG Daten trainieren.
+
+2. Training von VAE
+
+3. Anomaly Detection mit VAE und Vergleich von drei Metrics - accuracy, precision und recall von einem vanilla Autoencoder aus [Aufgabe 4](https://colab.research.google.com/drive/1SrKSrs4m_D3SqKG2ffJCOQnobQE3atWg?usp=sharing#scrollTo=VvK4NRe8sVhE)
+
+4. Generierung der Anomaly Daten mit VAE, Ziel - balanced Dataset (gleiche Anzahl Anomaly/Normal)
+
+5. Bonus: Ein DNN for binary classification (letztes Layer activation "softmax" und loss sparse_binary_crossentropy)
+
+
 
 
 
