@@ -167,7 +167,7 @@ Goal of the exercice is to use another data set:
 
 [Exercice: use electrocardiogram data with previous variational autoencoder](https://colab.research.google.com/drive/1C1Ne-t7WO8kPI6e8RuOwzEkZbjxTjSIz?usp=sharing)
 
-[Divergence de Kullback-Leibler](https://fr.wikipedia.org/wiki/Divergence_de_Kullback-Leibler)
+[Divergence de Kullback-Leibler / ](https://fr.wikipedia.org/wiki/Divergence_de_Kullback-Leibler)[video](https://www.youtube.com/watch?v=LJwtEaP2xKA)
 
 [6 Different Ways of Implementing VAE with TensorFlow 2 and TensorFlow Probability](https://towardsdatascience.com/6-different-ways-of-implementing-vae-with-tensorflow-2-and-tensorflow-probability-9fe34a8ab981)
 
