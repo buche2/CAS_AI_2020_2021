@@ -2,31 +2,7 @@
 
 CAS about artificial intelligence made at BFH in 2020 and 2021.
 
-- [CAS Artificial intelligence 2020-2021](#cas-artificial-intelligence-2020-2021)
-- [Ressources](#ressources)
-  * [Data](#data)
-  * [Videos](#videos)
-  * [Tutorial](#tutorial)
-  * [Book](#book)
-- [2020-10-20 Einführung in AI Grundtechniken: Gradient Descent,partielle Ableitungen, Matrix Algebra, AI Frameworks](#2020-10-20-einf-hrung-in-ai-grundtechniken--gradient-descent-partielle-ableitungen--matrix-algebra--ai-frameworks)
-  * [Theory](#theory)
-    + [General AI principle](#general-ai-principle)
-    + [Notes](#notes)
-  * [Home work](#home-work)
-- [2020-10-26 Tensorflow und PyTorch Frameworks](#2020-10-26-tensorflow-und-pytorch-frameworks)
-  * [Theory](#theory-1)
-    + [Data loading](#data-loading)
-    + [Tensorflow introduction](#tensorflow-introduction)
-    + [Pytorch introduction](#pytorch-introduction)
-    + [Notes](#notes-1)
-  * [Homework](#homework)
-- [2020-11-03 Fundamentale Neuronale Netze: MLP und Autoencoder](#2020-11-03-fundamentale-neuronale-netze--mlp-und-autoencoder)
-  * [Theory](#theory-2)
-  * [Homework](#homework-1)
-- [2020-11-10 Convolutional Neuronal Networks (CNN) und Variational Autoencoders (VAE)](#2020-11-10-convolutional-neuronal-networks--cnn--und-variational-autoencoders--vae-)
-  * [Theory](#theory-3)
-    + [Notes](#notes-2)
-  * [Homework](#homework-2)
+TODO TOC
   
 # Ressources
 
