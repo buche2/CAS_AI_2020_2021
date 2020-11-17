@@ -139,7 +139,7 @@ Goal of the exercice is to use another data set:
 ## Theory
 
 [Variational autoencode - trainer notebook / ](https://colab.research.google.com/drive/1H6tbiqSOdeNIuhMGxLJRoglw4sFSsEGI?usp=sharing)
-[exercice notebook](https://colab.research.google.com/drive/17zT9lYKsnIbyxbLKwwJzIh292r1zkJKP)
+[exercice notebook / ](https://colab.research.google.com/drive/17zT9lYKsnIbyxbLKwwJzIh292r1zkJKP)[video](https://www.youtube.com/watch?v=fcvYpzHmhvA)
 
 [Exercice: use electrocardiogram data with previous variational autoencoder](https://colab.research.google.com/drive/1C1Ne-t7WO8kPI6e8RuOwzEkZbjxTjSIz?usp=sharing)
 
