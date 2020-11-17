@@ -141,6 +141,8 @@ Goal of the exercice is to use another data set:
 [Variational autoencode - trainer notebook / ](https://colab.research.google.com/drive/1H6tbiqSOdeNIuhMGxLJRoglw4sFSsEGI?usp=sharing)
 [exercice notebook / ](https://colab.research.google.com/drive/17zT9lYKsnIbyxbLKwwJzIh292r1zkJKP)[video](https://www.youtube.com/watch?v=fcvYpzHmhvA)
 
+[Dense function in TensorFlow](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/keras/layers/core.py#L1079)
+
 [Exercice: use electrocardiogram data with previous variational autoencoder](https://colab.research.google.com/drive/1C1Ne-t7WO8kPI6e8RuOwzEkZbjxTjSIz?usp=sharing)
 
 [Divergence de Kullback-Leibler / ](https://fr.wikipedia.org/wiki/Divergence_de_Kullback-Leibler)[video](https://www.youtube.com/watch?v=LJwtEaP2xKA)
