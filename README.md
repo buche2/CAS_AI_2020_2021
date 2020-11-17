@@ -158,6 +158,18 @@ Migrate Iris exercice to Tensorflow: https://colab.research.google.com/drive/1gP
 Goal of the exercice is to use another data set: 
 [Anomaly detection for credit card with autoencoder](https://colab.research.google.com/drive/1qVjOp5hCO_vGkW8L_koCyNHXrvYT-VJj#scrollTo=SNQib7gi6nzE)
 
+# 2020-11-17 Transfer-Learning Methoden und Deep ConvolutionalGenerative Adversarial Network (DCGAN)
+
+## Theory
+
+[Variational autoencode - trainer notebook / ](https://colab.research.google.com/drive/1H6tbiqSOdeNIuhMGxLJRoglw4sFSsEGI?usp=sharing)
+[exercice notebook](https://colab.research.google.com/drive/17zT9lYKsnIbyxbLKwwJzIh292r1zkJKP)
+
+[6 Different Ways of Implementing VAE with TensorFlow 2 and TensorFlow Probability](https://towardsdatascience.com/6-different-ways-of-implementing-vae-with-tensorflow-2-and-tensorflow-probability-9fe34a8ab981)
+
+### Notes
+
+
 
 
 
