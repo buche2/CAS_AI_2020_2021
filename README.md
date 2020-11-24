@@ -178,6 +178,14 @@ Convolution is a serie of scalar product.
  
 [Notebook for understanding convolutions](https://colab.research.google.com/github/Gurubux/CognitiveClass-DL/blob/master/2_Deep_Learning_with_TensorFlow/DL_CC_2_2_CNN/2.1-Review-Understanding_Convolutions.ipynb)
 
+[Tensorboard](https://colab.research.google.com/drive/1uBJFZfE2ep8V0mE7yLmnh7xNCKyHyjRt?usp=sharing)
+
+[CNN basic](https://colab.research.google.com/drive/16Yq21OIy9mm2HjRT9g3gfDyZj467F0hW?usp=sharing)
+
+[CNN advanced](https://colab.research.google.com/drive/1btoc8FpHjgTl8G51OxIUIRJw-fdRg2ZJ?usp=sharing)
+
+[Softmax: compute probability of vector element](https://colab.research.google.com/drive/14xiHp_9aavkuMhiZgDSbyjwaE00rGKZv?usp=sharing)
+
 ### Notes
 
 [Notes as PDF](TBD)
