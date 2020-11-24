@@ -166,6 +166,16 @@ Goal of the exercice is to use another data set:
 [Robust Variational Autoencoder trainer notebook / ](https://colab.research.google.com/drive/1INEafIhKPABUMbV_c967VkDcCmre6EVB?usp=sharing)
 [homework notebook](https://colab.research.google.com/drive/1Cy-8wpzJ4BqCEtT5oP-8V-MM__DFhv76?usp=sharing)
 
+# 2020-11-24 6.Recurrent Neuronal Networks
+
+## Theory
+
+### Notes
+
+[Notes as PDF](TBD)
+
+## Homework
+
 
 
 
