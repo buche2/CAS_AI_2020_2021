@@ -164,7 +164,7 @@ Goal of the exercice is to use another data set:
 3. Anomaly Detection mit VAE und Vergleich von drei Metrics - accuracy, precision und recall von einem vanilla Autoencoder aus [Aufgabe 4](https://colab.research.google.com/drive/1SrKSrs4m_D3SqKG2ffJCOQnobQE3atWg?usp=sharing#scrollTo=VvK4NRe8sVhE)
 
 [Robust Variational Autoencoder trainer notebook / ](https://colab.research.google.com/drive/1INEafIhKPABUMbV_c967VkDcCmre6EVB?usp=sharing)
-[homework notebook](https://colab.research.google.com/drive/1Cy-8wpzJ4BqCEtT5oP-8V-MM__DFhv76?usp=sharing)
+[my homework notebook](https://colab.research.google.com/drive/1C1Ne-t7WO8kPI6e8RuOwzEkZbjxTjSIz?usp=sharing)
 
 [Very good homework](https://colab.research.google.com/drive/1DLcT-6VwrjwWBTlUsy4OkPWzmrKgBMUc?usp=sharing)
 
