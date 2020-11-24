@@ -6,6 +6,10 @@ TODO TOC
   
 # Ressources
 
+## Interative course script
+
+[Script as notebook](https://colab.research.google.com/drive/10vkq0wYDpZJkxRWzlxwcRFY1q0tOooCO?usp=sharing)
+
 ## Data
 
 [Machine learning data repository](https://archive.ics.uci.edu/ml/datasets.php)
