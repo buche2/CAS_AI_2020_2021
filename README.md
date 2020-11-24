@@ -172,6 +172,10 @@ Goal of the exercice is to use another data set:
 
 ## Theory
 
+Convolution is a serie of scalar product.
+
+![Convolution](https://www.researchgate.net/profile/Wooje_Lee2/publication/337106643/figure/fig2/AS:822942304858122@1573216143265/A-schematic-diagram-of-convolution-and-max-pooling-layer-In-the-convolution-layer-a.png
+
 ### Notes
 
 [Notes as PDF](TBD)
