@@ -155,7 +155,7 @@ Compute a gradient descent for a complex function and determine iteratively m an
 
 Migrate Iris exercice to Tensorflow: https://colab.research.google.com/drive/1gPMNk24EuvBKun5oCfV_mGrCtUA2rmoy?usp=sharing
 
-# 2020-11-10 4.Convolutional Neuronal Networks (CNN) und Variational Autoencoders (VAE)
+# 2020-11-10 4.Anomaly Detection mit Autoencoder
 
 ## Theory
 
@@ -175,7 +175,7 @@ Migrate Iris exercice to Tensorflow: https://colab.research.google.com/drive/1gP
 Goal of the exercice is to use another data set: 
 [Anomaly detection for credit card with autoencoder](https://colab.research.google.com/drive/1qVjOp5hCO_vGkW8L_koCyNHXrvYT-VJj#scrollTo=SNQib7gi6nzE)
 
-# 2020-11-17 5.Transfer-Learning Methoden und Deep ConvolutionalGenerative Adversarial Network (DCGAN)
+# 2020-11-17 5.Variational Autoencoder
 
 ## Theory
 
@@ -209,7 +209,7 @@ Goal of the exercice is to use another data set:
 
 [Very good homework](https://colab.research.google.com/drive/1DLcT-6VwrjwWBTlUsy4OkPWzmrKgBMUc?usp=sharing)
 
-# 2020-11-24 6.Recurrent Neuronal Networks
+# 2020-11-24 6.CNN
 
 ## Theory
 
