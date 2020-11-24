@@ -233,6 +233,8 @@ Convolution is a serie of scalar product.
 
 ## Homework
 
+[CNN homework](https://colab.research.google.com/drive/158q9rg9_fIColIym9U3fGVpVlyDeXuIT?usp=sharing)
+
 
 
 
