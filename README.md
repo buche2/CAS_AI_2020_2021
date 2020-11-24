@@ -241,7 +241,9 @@ Convolution is a serie of scalar product.
 
 [CNN Advanced homework - With CIFAR 10](https://colab.research.google.com/drive/1wIRSExQCUM4uV0TDbJWp4v7O1ACXdJPZ?usp=sharing)
 
-[Conv Variational Autoencoder homework -  With CIFAR 10](https://colab.research.google.com/drive/1li43rVySv0XUc0hwBiY6Zu8tn-9hYw2O)
+[Conv Variational Autoencoder homework -  With CIFAR 10 -> finally cancelled](https://colab.research.google.com/drive/1li43rVySv0XUc0hwBiY6Zu8tn-9hYw2O)
+
+[Robist Conv Variational Autoencoder homework - with MNIST - Trainer notebook](https://colab.research.google.com/drive/1t6v9ILqZVuqP5Fv01wNKcSJd5ou7Vfvp?usp=sharing)
 
 
 
