@@ -174,7 +174,9 @@ Goal of the exercice is to use another data set:
 
 Convolution is a serie of scalar product.
 
- ![Convolution](https://www.researchgate.net/profile/Wooje_Lee2/publication/337106643/figure/fig2/AS:822942304858122@1573216143265/A-schematic-diagram-of-convolution-and-max-pooling-layer-In-the-convolution-layer-a.png)
+![Convolution](https://www.researchgate.net/profile/Wooje_Lee2/publication/337106643/figure/fig2/AS:822942304858122@1573216143265/A-schematic-diagram-of-convolution-and-max-pooling-layer-In-the-convolution-layer-a.png)
+ 
+[Notebook for understanding convolutions](https://colab.research.google.com/github/Gurubux/CognitiveClass-DL/blob/master/2_Deep_Learning_with_TensorFlow/DL_CC_2_2_CNN/2.1-Review-Understanding_Convolutions.ipynb)
 
 ### Notes
 
