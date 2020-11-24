@@ -23,7 +23,7 @@ TODO TOC
 2.	Deeplearning, Ian Goodfellow https://www.deeplearningbook.org/contents/mlp.html
 
 
-# 2020-10-20 Einführung in AI Grundtechniken: Gradient Descent,partielle Ableitungen, Matrix Algebra, AI Frameworks
+# 2020-10-20 1.Einführung in AI Grundtechniken: Gradient Descent,partielle Ableitungen, Matrix Algebra, AI Frameworks
 
 ## Theory
 
@@ -56,7 +56,7 @@ General AI function: Y = wX + b
 
 Compute a gradient descent for a complex function and determine iteratively m and b: [Colab](https://colab.research.google.com/drive/1PMeiTzdSRWs6JGV14g-OoAHgNkGns458#scrollTo=4h5c2kvByWnu)
 
-# 2020-10-26 Tensorflow und PyTorch Frameworks
+# 2020-10-26 2.Tensorflow und PyTorch Frameworks
 
 ## Theory
 
@@ -88,7 +88,7 @@ Compute a gradient descent for a complex function and determine iteratively m an
 - Change values N, D_in, H, D
 - Add a new layer/activation function with H hidden size
 
-# 2020-11-03 Fundamentale Neuronale Netze: MLP und Autoencoder
+# 2020-11-03 3.Fundamentale Neuronale Netze: MLP und Autoencoder
 
 ## Theory
 
@@ -114,7 +114,7 @@ Compute a gradient descent for a complex function and determine iteratively m an
 
 Migrate Iris exercice to Tensorflow: https://colab.research.google.com/drive/1gPMNk24EuvBKun5oCfV_mGrCtUA2rmoy?usp=sharing
 
-# 2020-11-10 Convolutional Neuronal Networks (CNN) und Variational Autoencoders (VAE)
+# 2020-11-10 4.Convolutional Neuronal Networks (CNN) und Variational Autoencoders (VAE)
 
 ## Theory
 
@@ -134,7 +134,7 @@ Migrate Iris exercice to Tensorflow: https://colab.research.google.com/drive/1gP
 Goal of the exercice is to use another data set: 
 [Anomaly detection for credit card with autoencoder](https://colab.research.google.com/drive/1qVjOp5hCO_vGkW8L_koCyNHXrvYT-VJj#scrollTo=SNQib7gi6nzE)
 
-# 2020-11-17 Transfer-Learning Methoden und Deep ConvolutionalGenerative Adversarial Network (DCGAN)
+# 2020-11-17 5.Transfer-Learning Methoden und Deep ConvolutionalGenerative Adversarial Network (DCGAN)
 
 ## Theory
 
@@ -150,6 +150,8 @@ Goal of the exercice is to use another data set:
 [6 Different Ways of Implementing VAE with TensorFlow 2 and TensorFlow Probability](https://towardsdatascience.com/6-different-ways-of-implementing-vae-with-tensorflow-2-and-tensorflow-probability-9fe34a8ab981)
 
 ### Notes
+
+[Notes as PDF](https://drive.google.com/file/d/1mUu6kiYjpzDBSWQVTHysuF_E2xbNSXCy/view?usp=sharing)
 
 ## Homework
 
