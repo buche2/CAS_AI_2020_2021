@@ -227,6 +227,8 @@ Convolution is a serie of scalar product.
 
 [Softmax: compute probability of vector element](https://colab.research.google.com/drive/14xiHp_9aavkuMhiZgDSbyjwaE00rGKZv?usp=sharing)
 
+[CIFAR10 explanation](https://towardsdatascience.com/cifar-10-image-classification-in-tensorflow-5b501f7dc77c)
+
 ### Notes
 
 [Notes as PDF](TBD)
@@ -237,7 +239,7 @@ Convolution is a serie of scalar product.
 
 [CNN homework with preprocessing -> finally cancelled](https://colab.research.google.com/drive/1qfJRIbBeVg8QImTZPauraDXsKgL_tvpn?usp=sharing)
 
-[CNN Advanced homework](https://colab.research.google.com/drive/1wIRSExQCUM4uV0TDbJWp4v7O1ACXdJPZ?usp=sharing)
+[CNN Advanced homework - With CIFAR 10](https://colab.research.google.com/drive/1wIRSExQCUM4uV0TDbJWp4v7O1ACXdJPZ?usp=sharing)
 
 
 
