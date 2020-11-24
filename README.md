@@ -13,6 +13,7 @@ TODO TOC
 ## Data
 
 [Machine learning data repository](https://archive.ics.uci.edu/ml/datasets.php)
+
 [IRIS](https://gist.github.com/curran/a08a1080b88344b0c8a7)
 
 ## Videos
@@ -24,7 +25,7 @@ TODO TOC
 ## Book
 
 1. Machine Learning, Tom Mitchell, McGraw Hill, 1997 http://www.cs.cmu.edu/~tom/mlbook.html
-2.	Deeplearning, Ian Goodfellow https://www.deeplearningbook.org/contents/mlp.html
+2. Deeplearning, Ian Goodfellow https://www.deeplearningbook.org/contents/mlp.html
 
 
 # 2020-10-20 1.Einführung in AI Grundtechniken: Gradient Descent,partielle Ableitungen, Matrix Algebra, AI Frameworks
