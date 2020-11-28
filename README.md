@@ -231,19 +231,19 @@ Convolution is a serie of scalar product.
 
 ### Notes
 
-[Notes as PDF](TBD)
+[Notes as PDF](https://drive.google.com/file/d/1tVBzKR80kTm7ijtlocn_e9_4CGRBGnxb/view?usp=sharing)
 
 ## Homework
 
-[CNN homework](https://colab.research.google.com/drive/158q9rg9_fIColIym9U3fGVpVlyDeXuIT?usp=sharing)
+[CNN homework #1](https://colab.research.google.com/drive/158q9rg9_fIColIym9U3fGVpVlyDeXuIT?usp=sharing)
 
 [CNN homework with preprocessing -> finally cancelled](https://colab.research.google.com/drive/1qfJRIbBeVg8QImTZPauraDXsKgL_tvpn?usp=sharing)
 
-[CNN Advanced homework - With CIFAR 10](https://colab.research.google.com/drive/1wIRSExQCUM4uV0TDbJWp4v7O1ACXdJPZ?usp=sharing)
+[CNN Advanced homework #2 - With CIFAR 10](https://colab.research.google.com/drive/1wIRSExQCUM4uV0TDbJWp4v7O1ACXdJPZ?usp=sharing)
 
 [Conv Variational Autoencoder homework -  With CIFAR 10 -> finally cancelled](https://colab.research.google.com/drive/1li43rVySv0XUc0hwBiY6Zu8tn-9hYw2O)
 
-[Robist Conv Variational Autoencoder homework - with MNIST - Trainer notebook](https://colab.research.google.com/drive/1t6v9ILqZVuqP5Fv01wNKcSJd5ou7Vfvp?usp=sharing)
+[Robist Conv Variational Autoencoder homework - with MNIST - Trainer notebook / ](https://colab.research.google.com/drive/1t6v9ILqZVuqP5Fv01wNKcSJd5ou7Vfvp?usp=sharing)[Homework #3](https://colab.research.google.com/drive/1GHYzU7i11U4HHEa8OW4hYHnJV8QQE2OY#scrollTo=2M7LmLtGEMQJ)
 
 
 
