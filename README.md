@@ -58,6 +58,8 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 
 [Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 
+[Deep Learning (CAS machine intelligence, 2019)]()https://tensorchiefs.github.io/dl_course_2018/
+
 ## Book
 
 1. Machine Learning, Tom Mitchell, McGraw Hill, 1997 http://www.cs.cmu.edu/~tom/mlbook.html
