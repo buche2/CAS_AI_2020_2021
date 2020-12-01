@@ -247,6 +247,21 @@ Convolution is a serie of scalar product.
 
 [Robist Conv Variational Autoencoder homework - with MNIST - Trainer notebook / ](https://colab.research.google.com/drive/1t6v9ILqZVuqP5Fv01wNKcSJd5ou7Vfvp?usp=sharing)[Homework #3](https://colab.research.google.com/drive/1GHYzU7i11U4HHEa8OW4hYHnJV8QQE2OY#scrollTo=2M7LmLtGEMQJ)
 
+# 2020-11-24 7.CNN - Transfer Learning
+
+## Theory
+
+### Notes
+
+[Notes as PDF]()
+
+## Homework
+
+[07 TF2.0 Transfer Learning - Special - Trainer notebook / ](https://colab.research.google.com/drive/1Id41sXdKCB9llQbAlWmZW1bbqDTVKcSb?usp=sharing)[My notebook](https://colab.research.google.com/drive/1HYbry-1wm_9mI5btJdCh2ZmMlNTFS4eK?usp=sharing)
+
+[07 TF2.0 Transfer Learning with Data Augmentation - Classic - Trainer notebook / ](https://colab.research.google.com/drive/1Lgy4fBCBFvxmXxz4YaTdwCjW3nUGz3q6#scrollTo=d9W7Yjjl3XUO)[My notebook](https://colab.research.google.com/drive/1UK6ooMk9Ho58NpOXFfAkGLTh5ZKcqeoL?usp=sharing)
+
+
 
 
 
