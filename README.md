@@ -253,6 +253,8 @@ Convolution is a serie of scalar product.
 
 ## Theory
 
+[VGG16 – Convolutional Network for Classification and Detection](https://neurohive.io/en/popular-networks/vgg16/)
+
 ### Notes
 
 [Notes as PDF]()
