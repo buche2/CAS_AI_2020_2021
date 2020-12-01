@@ -52,6 +52,8 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 
 [IRIS](https://gist.github.com/curran/a08a1080b88344b0c8a7)
 
+[EPFL](https://www.epfl.ch/labs/mmspg/downloads/)
+
 ## Videos
 
 ## Tutorial
