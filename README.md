@@ -273,6 +273,9 @@ Convolution is a serie of scalar product.
 
 [Generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network)
 
+[A Friendly Introduction to Generative Adversarial Networks (GANs) - Video](https://www.youtube.com/watch?v=8L11aMN5KY8)
+
+
 
 
 
