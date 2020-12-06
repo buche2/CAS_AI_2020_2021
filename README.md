@@ -257,7 +257,7 @@ Convolution is a serie of scalar product.
 
 ### Notes
 
-[Notes as PDF]()
+[Notes as PDF](https://drive.google.com/file/d/1RoR5Y9wZTAqHTYG6zEUlM997wpDyLOfS/view?usp=sharing)
 
 ## Homework
 
