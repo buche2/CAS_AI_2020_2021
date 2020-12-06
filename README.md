@@ -263,7 +263,7 @@ Convolution is a serie of scalar product.
 
 [07 TF2.0 Transfer Learning - Special - Trainer notebook / ](https://colab.research.google.com/drive/1Id41sXdKCB9llQbAlWmZW1bbqDTVKcSb?usp=sharing)[My notebook](https://colab.research.google.com/drive/1HYbry-1wm_9mI5btJdCh2ZmMlNTFS4eK?usp=sharing)
 
-[07 TF2.0 Transfer Learning with Data Augmentation - Classic - Trainer notebook / ](https://colab.research.google.com/drive/1Lgy4fBCBFvxmXxz4YaTdwCjW3nUGz3q6#scrollTo=d9W7Yjjl3XUO)[My notebook](https://colab.research.google.com/drive/1e5ChGQOYlEEMNGsSiBn_vXjs2hDJCU6h?usp=sharing)
+[07 TF2.0 Transfer Learning with Data Augmentation - Classic - Trainer notebook / ](https://colab.research.google.com/drive/1Lgy4fBCBFvxmXxz4YaTdwCjW3nUGz3q6#scrollTo=d9W7Yjjl3XUO)[My notebook](hhttps://colab.research.google.com/drive/1ThNobRaEDr4O13mxdxupMeXDMFg5pwmp?usp=sharing)
 
 [07 TF2.0 Transfer Learning - Special CIFAR / ](https://colab.research.google.com/drive/1qmELcVBdKGKRQcujJfh8NfcB-CmfQSp_?usp=sharing)[Trainer notebook](https://colab.research.google.com/drive/1-RjVGy6nnjSGz7ghqz3sf1hrLqd-0VcV?usp=sharing)
 
