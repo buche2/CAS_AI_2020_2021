@@ -281,6 +281,8 @@ Convolution is a serie of scalar product.
 
 [Dense GAN - My notebook](https://colab.research.google.com/drive/1AnOqf2PcqABZ0e_KNOBR-2mNy8cJR2J4?usp=sharing)
 
+[DCGAN - CIFAR - My notebook](https://colab.research.google.com/drive/1mjT37cgtZlTEoSkfsy1mpzC6wXTqNtyj?usp=sharing(
+
 
 
 
