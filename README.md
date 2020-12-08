@@ -275,6 +275,8 @@ Convolution is a serie of scalar product.
 
 [A Friendly Introduction to Generative Adversarial Networks (GANs) - Video](https://www.youtube.com/watch?v=8L11aMN5KY8)
 
+[A guide to convolution arithmetic for deep learning](https://www.arxiv-vanity.com/papers/1603.07285/)
+
 ## Homework
 
 [Dense GAN - My notebook](https://colab.research.google.com/drive/1AnOqf2PcqABZ0e_KNOBR-2mNy8cJR2J4?usp=sharing)
