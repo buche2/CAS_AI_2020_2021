@@ -277,7 +277,7 @@ Convolution is a serie of scalar product.
 
 ## Homework
 
-[Dense GAN - My notebook](https://colab.research.google.com/drive/1Onc2IdXi-kmUtL2PxMYcr1zhssFruZej?usp=sharing)
+[Dense GAN - My notebook](https://colab.research.google.com/drive/1AnOqf2PcqABZ0e_KNOBR-2mNy8cJR2J4?usp=sharing)
 
 
 
