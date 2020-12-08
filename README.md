@@ -277,6 +277,8 @@ Convolution is a serie of scalar product.
 
 [A guide to convolution arithmetic for deep learning](https://www.arxiv-vanity.com/papers/1603.07285/)
 
+[Conv2D explanation](https://www.pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/)
+
 ## Homework
 
 [Dense GAN - My notebook](https://colab.research.google.com/drive/1AnOqf2PcqABZ0e_KNOBR-2mNy8cJR2J4?usp=sharing)
