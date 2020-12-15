@@ -291,6 +291,10 @@ Convolution is a serie of scalar product.
 
 [Cheatsheet recurrent neural networs](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
+[RNN with pytorch - Trainer notebook](https://colab.research.google.com/drive/1rM-acG1lXw68_-mFcx275SlvO2asdAWG?usp=sharing)
+[LSTM with pytorch - Trainer notebook](https://colab.research.google.com/drive/1z3sjL0D7klwbRSlIz4Grdpy9rT0pvrHi?usp=sharing)
+[Stock return - Trainer notebook](https://colab.research.google.com/drive/1bW9xhVVoKJg28s_Go7EhwJTmMrnn2yqv?usp=sharing)
+
 
 ## Homework
 
