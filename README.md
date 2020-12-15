@@ -293,6 +293,8 @@ Convolution is a serie of scalar product.
 
 [RNN for calligraphy / ](https://www.calligrapher.ai/)[Source code](https://github.com/sjvasquez/handwriting-synthesis)
 
+[RNN Video - ](https://www.youtube.com/watch?v=EL439RMv3Xc)[LSTM Video](https://www.youtube.com/watch?v=3xgYxrNyE54)
+
 [RNN with pytorch - Trainer notebook](https://colab.research.google.com/drive/1rM-acG1lXw68_-mFcx275SlvO2asdAWG?usp=sharing)
 
 [LSTM with pytorch - Trainer notebook](https://colab.research.google.com/drive/1z3sjL0D7klwbRSlIz4Grdpy9rT0pvrHi?usp=sharing)
