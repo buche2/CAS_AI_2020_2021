@@ -291,6 +291,8 @@ Convolution is a serie of scalar product.
 
 [Cheatsheet recurrent neural networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
+[RNN for calligraphy](https://www.calligrapher.ai/)
+
 [RNN with pytorch - Trainer notebook](https://colab.research.google.com/drive/1rM-acG1lXw68_-mFcx275SlvO2asdAWG?usp=sharing)
 
 [LSTM with pytorch - Trainer notebook](https://colab.research.google.com/drive/1z3sjL0D7klwbRSlIz4Grdpy9rT0pvrHi?usp=sharing)
