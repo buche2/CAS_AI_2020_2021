@@ -285,9 +285,11 @@ Convolution is a serie of scalar product.
 
 [DCGAN - CIFAR - My notebook](https://colab.research.google.com/drive/1mjT37cgtZlTEoSkfsy1mpzC6wXTqNtyj?usp=sharing)
 
-# 2020-12-15 9.XXX
+# 2020-12-15 9.RNN
 
 ## Theory
+
+[Cheatsheet recurrent neural networs](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
 
 ## Homework
