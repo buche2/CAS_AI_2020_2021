@@ -1,7 +1,5 @@
 # CAS Artificial intelligence 2020-2021
 
-CAS about artificial intelligence made at BFH in 2020 and 2021.
-
 - [CAS Artificial intelligence 2020-2021](#cas-artificial-intelligence-2020-2021)
 - [Ressources](#ressources)
   * [Interative course script](#interative-course-script)
@@ -36,9 +34,18 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
   * [Theory](#theory-5)
     + [Notes](#notes-4)
   * [Homework](#homework-4)
+- [2020-12-01 7.CNN - Transfer Learning](#2020-12-01-7cnn---transfer-learning)
+  * [Theory](#theory-6)
+    + [Notes](#notes-5)
+  * [Homework](#homework-5)
+- [2020-12-08 8.GAN](#2020-12-08-8gan)
+  * [Theory](#theory-7)
+  * [Homework](#homework-6)
+- [2020-12-15 9.RNN](#2020-12-15-9rnn)
+  * [Theory](#theory-8)
+  * [Homework](#homework-7)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
+CAS about artificial intelligence made at BFH in 2020 and 2021.
   
 # Ressources
 
