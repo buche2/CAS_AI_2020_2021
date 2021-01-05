@@ -370,6 +370,11 @@ Take the [trainer notebook ](https://colab.research.google.com/drive/1XLYVhsT3u5
 
 [My notebook](https://colab.research.google.com/drive/1Fe0NyGIob4jXmUYnoduGHMLG-84Jg2vh?usp=sharing)
 
+Tip: load tensorboard by starting it in the PyCharm console:
+
+```
+tensorboard --logdir=runs
+```
 
 
 
