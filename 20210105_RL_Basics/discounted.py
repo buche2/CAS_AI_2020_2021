@@ -10,10 +10,12 @@ def discounted_reward(rewards, gamma):
     val = 0.0
     episode_length = len(rewards)
     print("Length: ", episode_length)
+    #print("Test: ", 3**(2))
 
     for t in range(episode_length):
         val += gamma**(t) * rewards[t]
-        print("Val: ", gamma**(t) * rewards[t])
+        print("Intermediate val: ", gamma**(t) * rewards[t])
+        print("Val: ", val)
 
     return val
 
