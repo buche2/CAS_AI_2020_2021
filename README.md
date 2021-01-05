@@ -330,6 +330,10 @@ Convolution is a serie of scalar product.
 
 ## Theory
 
+[Reinforcement Learning algorithms — an intuitive overview](https://medium.com/@SmartLabAI/reinforcement-learning-algorithms-an-intuitive-overview-904e2dff5bbc)
+
+[Lilian Weng blog](https://lilianweng.github.io/lil-log/)
+
 ### Setup
 
 We will work with Anaconda and PyCharm
