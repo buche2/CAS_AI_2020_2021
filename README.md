@@ -320,10 +320,11 @@ Convolution is a serie of scalar product.
 
 [Notes as PDF](https://drive.google.com/file/d/1NQSSe1fOoLMB2kSUtgpJiux38TWW7FV1/view?usp=sharing)
 
-
 ## Homework
 
-[RNN with pytorch - Homework](https://colab.research.google.com/drive/1tSmLKaUSx5YICDVLKrbn7YM9T_0rvulX?usp=sharing)
+[RNN with pytorch - Homework](https://colab.research.google.com/drive/1y44MXu-ynNyE69hFbwt6ZZtwy06xIVd6#scrollTo=rWl7Nb3W0kgH)
+
+[Stock prediction by Boris Banushev](https://github.com/borisbanushev/stockpredictionai)
 
 # 2021-01-05 10.RL Grundlagen
 
