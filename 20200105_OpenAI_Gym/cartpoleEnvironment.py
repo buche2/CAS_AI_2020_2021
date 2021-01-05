@@ -1,7 +1,7 @@
 import gym
 
-
-env = gym.make("CartPole-v1")
+env = gym.make("Pendulum-v0")
+#env = gym.make("CartPole-v1")
 episodes = 100
 
 for episode in range(episodes):

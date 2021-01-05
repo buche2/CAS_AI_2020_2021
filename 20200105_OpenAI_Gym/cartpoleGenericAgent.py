@@ -32,6 +32,7 @@ class Agent:
 
 
 if __name__ == "__main__":
-    env = gym.make("CartPole-v1")
+    env = gym.make("Pendulum-v0")
+    #env = gym.make("CartPole-v1")
     agent = Agent(env)
     rewards = agent.play(episodes=100, render=True)
