@@ -334,6 +334,8 @@ Convolution is a serie of scalar product.
 
 [Lilian Weng blog](https://lilianweng.github.io/lil-log/)
 
+[OpenAI Gym - CartPole](https://gym.openai.com/envs/CartPole-v1/)
+
 ### Setup
 
 We will work with Anaconda and PyCharm
