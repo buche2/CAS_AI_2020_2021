@@ -20,10 +20,12 @@ class Agent:
                 if render:
                     self.env.render()
                 action = self.get_action()
+                # print("Action", action)
                 state, reward, done, _ = self.env.step(action)
                 total_reward += reward
                 if done:
                     rewards[episode] = total_reward
+                    print("Episode: ", episode, "Total reward: ", total_reward)
                     break
 
         return rewards
