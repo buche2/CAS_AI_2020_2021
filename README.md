@@ -323,6 +323,16 @@ Convolution is a serie of scalar product.
 
 [RNN with pytorch - Homework](https://colab.research.google.com/drive/1tSmLKaUSx5YICDVLKrbn7YM9T_0rvulX?usp=sharing)
 
+# 2021-01-05 10.RL Grundlagen
+
+## Theory
+
+### Notes
+
+## Homework
+
+
+
 
 
 
