@@ -40,7 +40,7 @@ IMAGE_SIZE = 64
 
 LEARNING_RATE = 0.0001
 REPORT_EVERY_ITER = 100
-SAVE_IMAGE_EVERY_ITER = 1
+SAVE_IMAGE_EVERY_ITER = 100
 
 class InputWrapper(gym.ObservationWrapper):
     """
