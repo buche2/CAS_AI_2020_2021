@@ -63,6 +63,8 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 
 ## Videos
 
+[Courses video recording](https://teams.microsoft.com/_#/school/files/G%C3%A9n%C3%A9ral?threadId=19%3Ab816fda1d3d7401faeffba576f427581%40thread.tacv2&ctx=channel&context=Recordings&rootfolder=%252Fsites%252Fbfh-bfh-2020-hscasartificalintelligence%252FFreigegebene%2520Dokumente%252FGeneral%252FRecordings)
+
 ## Tutorial
 
 [Colab](https://colab.research.google.com/notebooks/intro.ipynb)
