@@ -22,6 +22,11 @@ import gym.spaces
 
 import numpy as np
 
+# Fix for https://stackoverflow.com/questions/53014306/error-15-initializing-libiomp5-dylib-but-found-libiomp5-dylib-already-initial
+import os
+
+os.environ['KMP_DUPLICATE_LIB_OK']='True'
+
 log = gym.logger
 log.set_level(gym.logger.INFO)
 
