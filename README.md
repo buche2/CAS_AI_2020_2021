@@ -344,7 +344,11 @@ pip install gym
 pip install pygame
 ```
 
+### Categories of machine learning
+
 ![Categories Machine Learning](https://drive.google.com/uc?export=view&id=1_Jnm9qZjWripNE8eWqAHJ4dFuB0VQ47h)
+
+### Categories of reinforcement learning
 
 ![Categories Reinforcement Learning](https://drive.google.com/uc?export=view&id=172oahhZToFNiIgV-1VM6tRkw1p-sCwu5)
 
