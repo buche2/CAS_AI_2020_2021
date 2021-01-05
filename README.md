@@ -338,9 +338,11 @@ A new python environment has been installed with Anaconda: casaai2020
 
 Install gym and pygame:
 
+```
 source activate casaai2020
 pip install gym
 pip install pygame
+```
 
 ### Notes
 
