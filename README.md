@@ -366,6 +366,10 @@ pip install pygame
 
 ## Homework
 
+Take the [trainer notebook ](https://colab.research.google.com/drive/1XLYVhsT3u5cPPy3Jhc4O-54Sv7ONzRKd?usp=sharing) and make it working on pycharm -> export to .py
+
+[My notebook](https://colab.research.google.com/drive/1Fe0NyGIob4jXmUYnoduGHMLG-84Jg2vh?usp=sharing)
+
 
 
 
