@@ -286,6 +286,10 @@ Convolution is a serie of scalar product.
 
 [Conv2D explanation](https://www.pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/)
 
+### Notes
+
+[Notes as PDF](https://drive.google.com/file/d/1O6htvSGNUjagp6tHac5yCVPjIi4i4erD/view?usp=sharing)
+
 ## Homework
 
 [Dense GAN - My notebook](https://colab.research.google.com/drive/1AnOqf2PcqABZ0e_KNOBR-2mNy8cJR2J4?usp=sharing)
@@ -309,6 +313,10 @@ Convolution is a serie of scalar product.
 [LSTM with pytorch - Trainer notebook](https://colab.research.google.com/drive/1z3sjL0D7klwbRSlIz4Grdpy9rT0pvrHi?usp=sharing)
 
 [Stock return - Trainer notebook](https://colab.research.google.com/drive/1bW9xhVVoKJg28s_Go7EhwJTmMrnn2yqv?usp=sharing)
+
+### Notes
+
+[Notes as PDF](https://drive.google.com/file/d/1NQSSe1fOoLMB2kSUtgpJiux38TWW7FV1/view?usp=sharing)
 
 
 ## Homework
