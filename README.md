@@ -352,6 +352,10 @@ pip install pygame
 
 ![Categories Machine Learning](https://drive.google.com/uc?export=view&id=1_Jnm9qZjWripNE8eWqAHJ4dFuB0VQ47h)
 
+### Use cases of machine learning
+
+![Use cases of machine learning](https://drive.google.com/uc?export=view&id=1LftDhSV7G_ZCn71LZUIk23Oj3MdpntRh)
+
 ### Categories of reinforcement learning
 
 ![Categories Reinforcement Learning](https://drive.google.com/uc?export=view&id=172oahhZToFNiIgV-1VM6tRkw1p-sCwu5)
