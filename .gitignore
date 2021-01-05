@@ -1,5 +1,6 @@
 # Ignore .idea files
 .idea/
 20200105_OpenAI_Gym/.idea/
+20210105_RL_Basics/.idea/
 
 .DS_Store
