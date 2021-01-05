@@ -330,6 +330,18 @@ Convolution is a serie of scalar product.
 
 ## Theory
 
+### Setup
+
+We will work with Anaconda and PyCharm
+
+A new python environment has been installed with Anaconda: casaai2020
+
+Install gym and pygame:
+
+source activate casaai2020
+pip install gym
+pip install pygame
+
 ### Notes
 
 ## Homework
