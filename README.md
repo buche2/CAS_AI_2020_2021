@@ -366,10 +366,15 @@ pip install pygame
 
 ## Homework
 
-Take the [trainer notebook ](https://colab.research.google.com/drive/1XLYVhsT3u5cPPy3Jhc4O-54Sv7ONzRKd?usp=sharing) and make it working on pycharm -> export to .py
+Take the [trainer notebook ](https://colab.research.google.com/drive/1XLYVhsT3u5cPPy3Jhc4O-54Sv7ONzRKd?usp=sharing) and make it working on pycharm -> export to .py. In order to work with PyCharm, several components had to be installed with pip: opencv, opencv-python, torchvision, cmake and atari-py
 
 [My notebook](https://colab.research.google.com/drive/1Fe0NyGIob4jXmUYnoduGHMLG-84Jg2vh?usp=sharing)
 
+Tip: load tensorboard by starting it in the PyCharm console:
+
+```
+tensorboard --logdir=runs
+```
 
 
 
