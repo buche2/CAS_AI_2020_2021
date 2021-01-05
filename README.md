@@ -63,6 +63,8 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 
 ## Videos
 
+[Courses video recording](https://teams.microsoft.com/_#/school/files/G%C3%A9n%C3%A9ral?threadId=19%3Ab816fda1d3d7401faeffba576f427581%40thread.tacv2&ctx=channel&context=Recordings&rootfolder=%252Fsites%252Fbfh-bfh-2020-hscasartificalintelligence%252FFreigegebene%2520Dokumente%252FGeneral%252FRecordings)
+
 ## Tutorial
 
 [Colab](https://colab.research.google.com/notebooks/intro.ipynb)
@@ -318,14 +320,45 @@ Convolution is a serie of scalar product.
 
 [Notes as PDF](https://drive.google.com/file/d/1NQSSe1fOoLMB2kSUtgpJiux38TWW7FV1/view?usp=sharing)
 
-
 ## Homework
 
-[RNN with pytorch - Homework](https://colab.research.google.com/drive/1tSmLKaUSx5YICDVLKrbn7YM9T_0rvulX?usp=sharing)
+[RNN with pytorch - Homework](https://colab.research.google.com/drive/1y44MXu-ynNyE69hFbwt6ZZtwy06xIVd6#scrollTo=rWl7Nb3W0kgH)
+
+[Stock prediction by Boris Banushev](https://github.com/borisbanushev/stockpredictionai)
 
 # 2021-01-05 10.RL Grundlagen
 
 ## Theory
+
+[Reinforcement Learning algorithms — an intuitive overview](https://medium.com/@SmartLabAI/reinforcement-learning-algorithms-an-intuitive-overview-904e2dff5bbc)
+
+[Lilian Weng blog](https://lilianweng.github.io/lil-log/)
+
+### Setup
+
+We will work with Anaconda and PyCharm
+
+A new python environment has been installed with Anaconda: casaai2020
+
+Install gym and pygame:
+
+```
+source activate casaai2020
+pip install gym
+pip install pygame
+```
+
+### Categories of machine learning
+
+![Categories Machine Learning](https://drive.google.com/uc?export=view&id=1_Jnm9qZjWripNE8eWqAHJ4dFuB0VQ47h)
+
+### Use cases of machine learning
+
+![Use cases of machine learning](https://drive.google.com/uc?export=view&id=1LftDhSV7G_ZCn71LZUIk23Oj3MdpntRh)
+
+### Categories of reinforcement learning
+
+![Categories Reinforcement Learning](https://drive.google.com/uc?export=view&id=172oahhZToFNiIgV-1VM6tRkw1p-sCwu5)
 
 ### Notes
 
