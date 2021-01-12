@@ -393,6 +393,10 @@ source activate casaai2020
 pip list
 ```
 
+### Q-Learning intro
+
+[Wikipedia for Q-Learning](https://fr.wikipedia.org/wiki/Q-learning)
+
 ### Notes
 
 ## Homework
