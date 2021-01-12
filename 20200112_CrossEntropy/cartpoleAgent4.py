@@ -74,7 +74,17 @@ class Agent:
     def filter_episodes(self, rewards, episodes, percentile):
         """Helper function for the training.
         """
-        pass
+        reward_bound = np.percentile(rewards, percentile)
+        x_train, y_train = [], []
+        for reward, episode in zip(rewards, episodes):
+            if reward >= reward_bound:
+                observation = [step[0] for step in episode]
+                action = [step[1] for step in episode]
+                x_train.extend(observation)
+                y_train.extend(action)
+        x_train = np.asarray(x_train)
+        y_train = to_categorical(y_train, num_classes=self.actions) # L = 0 => [1, 0]
+        return x_train, y_train, reward_bound
 
     def train(self, percentile, num_iterations, num_episodes):
         """Play games and train the NN.
@@ -105,7 +115,7 @@ class Agent:
                 state, reward, done, _ = self.env.step(action)
                 total_reward += reward
                 if done:
-                    print(f"Total reward: {total_reward} in epsiode {episode + 1}")
+                    print(f"Total reward: {total_reward} in episode {episode + 1}")
                     break
 
 
