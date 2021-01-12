@@ -105,7 +105,7 @@ class Agent:
             x_train = x_train/255.
             self.model.fit(x=x_train, y=y_train, verbose=0)
             reward_mean = np.mean(rewards)
-            print(f"Reward mean: {reward_mean}, reward bound: {reward_bound}")
+            print(f"Iteration - Reward mean: {reward_mean}, reward bound: {reward_bound}")
             if reward_mean > 500:
                 break
 
@@ -132,5 +132,5 @@ if __name__ == "__main__":
     agent = Agent(env)
     print("Number of observations: ", agent.observations)
     print("Number of actions: ", agent.actions)
-    agent.train(percentile=70.0, num_iterations=15, num_episodes=10)
-    agent.play(num_episodes=10)
+    agent.train(percentile=99.0, num_iterations=8, num_episodes=16)
+    agent.play(num_episodes=3)
