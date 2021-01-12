@@ -376,6 +376,17 @@ Tip: load tensorboard by starting it in the PyCharm console:
 tensorboard --logdir=runs
 ```
 
+# 2021-01-12 11.RL Cross Entropy
+
+## Theory
+
+[GYM environments - Trainer notebook](https://colab.research.google.com/drive/1ODQ46vODyLsumYzK6_aBC1a-uO4p693W?usp=sharing)[My notebook](https://colab.research.google.com/drive/1IE9q8tpo4A96-O5eVhdPQ0m4YiF_Dv1M)
+
+### Notes
+
+## Homework
+
+
 
 
 
