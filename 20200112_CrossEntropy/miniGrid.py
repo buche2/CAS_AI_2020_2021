@@ -132,5 +132,5 @@ if __name__ == "__main__":
     agent = Agent(env)
     print("Number of observations: ", agent.observations)
     print("Number of actions: ", agent.actions)
-    agent.train(percentile=99.0, num_iterations=8, num_episodes=32)
+    agent.train(percentile=99.9, num_iterations=64, num_episodes=128)
     agent.play(num_episodes=3)
