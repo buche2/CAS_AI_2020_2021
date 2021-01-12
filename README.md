@@ -384,6 +384,13 @@ tensorboard --logdir=runs
 
 [CrossEntropy example - Cart Pole agent and mountain car agent](https://github.com/cedricmoullet/CAS_AI_2020_2021/tree/main/20200112_CrossEntropy)
 
+Tip: python environment library version:
+
+```
+source activate casaai2020
+pip list
+```
+
 ### Notes
 
 ## Homework
