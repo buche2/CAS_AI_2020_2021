@@ -30,7 +30,15 @@ class Agent:
         """Returns a keras NN model.
         """
         model = Sequential()
-        model.add(Dense(units=100, input_dim=self.observations))
+        model.add(Dense(units=512, input_dim=self.observations))
+        model.add(Activation("relu"))
+        model.add(Dense(units=256))
+        model.add(Activation("relu"))
+        model.add(Dense(units=128))
+        model.add(Activation("relu"))
+        model.add(Dense(units=64))
+        model.add(Activation("relu"))
+        model.add(Dense(units=32))
         model.add(Activation("relu"))
         model.add(Dense(units=self.actions)) # Output: Action [L, R]
         model.add(Activation("softmax"))
@@ -114,7 +122,7 @@ class Agent:
                 state, reward, done, _ = self.env.step(action)
                 total_reward += reward
                 if done:
-                    print(f"Total reward: {total_reward} in epsiode {episode + 1}")
+                    print(f"Total reward: {total_reward} in episode {episode + 1}")
                     break
 
 
@@ -122,7 +130,7 @@ if __name__ == "__main__":
     env = gym.make("MiniGrid-Empty-8x8-v0")
     env = FlatObsWrapper(env)
     agent = Agent(env)
-    print(agent.observations)
-    print(agent.actions)
-    agent.train(percentile=70.0, num_iterations=15, num_episodes=100)
+    print("Number of observations: ", agent.observations)
+    print("Number of actions: ", agent.actions)
+    agent.train(percentile=70.0, num_iterations=15, num_episodes=10)
     agent.play(num_episodes=10)
