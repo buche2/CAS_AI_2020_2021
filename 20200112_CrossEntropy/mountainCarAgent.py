@@ -157,7 +157,7 @@ class Agent:
                 reward = reward_func(state, action)
                 total_reward += reward
                 if done:
-                    print(f"Total reward: {total_reward} in epsiode {episode + 1}")
+                    print(f"Total reward: {total_reward} in episode {episode + 1}")
                     break
 
 
@@ -166,10 +166,10 @@ if __name__ == "__main__":
     agent = Agent(env)
 
     #reward_means, reward_bounds = agent.train(percentile=95.0, num_iterations=30, num_episodes=100)
-    reward_means, reward_bounds = agent.train(percentile=95.0, num_iterations=30, num_episodes=10)
+    reward_means, reward_bounds = agent.train(percentile=95.0, num_iterations=3, num_episodes=1)
     input("Weiter?")
     #agent.play(num_episodes=10, render=True)
-    agent.play(num_episodes=10, render=True)
+    agent.play(num_episodes=1, render=True)
 
     plt.plot(range(len(reward_means)), reward_means, color="red")
     plt.plot(range(len(reward_bounds)), reward_bounds, color="blue")
