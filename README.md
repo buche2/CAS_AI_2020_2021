@@ -397,6 +397,8 @@ pip list
 
 [Wikipedia for Q-Learning](https://fr.wikipedia.org/wiki/Q-learning)
 
+[Carneggie Mellon course](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture26-ri.pdf)
+
 ### Notes
 
 ## Homework
