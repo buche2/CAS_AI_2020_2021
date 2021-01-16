@@ -382,7 +382,7 @@ tensorboard --logdir=runs
 
 [GYM environments - Trainer notebook / ](https://colab.research.google.com/drive/1ODQ46vODyLsumYzK6_aBC1a-uO4p693W?usp=sharing)[My notebook](https://colab.research.google.com/drive/1IE9q8tpo4A96-O5eVhdPQ0m4YiF_Dv1M)
 
-[CrossEntropy example - Cart Pole agent and mountain car agent](https://github.com/cedricmoullet/CAS_AI_2020_2021/tree/main/20200112_CrossEntropy)
+[CrossEntropy example - Cart Pole agent and mountain car agent](https://github.com/cedricmoullet/CAS_AI_2020_2021/tree/main/20210112_CrossEntropy)
 
 [GYM environments](https://gym.openai.com/envs/#classic_control)
 
