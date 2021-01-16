@@ -31,11 +31,11 @@ class Agent:
         """Returns a keras NN model.
         """
         model = Sequential()
-        model.add(Conv2D(32,8,activation='relu'),input_shape=(64))
-        model.add(MaxPooling2D())
-        model.add(Conv2D(32,8,activation='relu'),input_shape=(64))
-        model.add(MaxPooling2D())
-        model.add(Conv2D(32,8,activation='relu'),input_shape=(64))
+        model.add(Conv2D(32,8,activation='relu',input_shape=(8,8,3)))
+        model.add(MaxPooling2D((2, 2)))
+        model.add(Conv2D(32,8,activation='relu',input_shape=(8,8,3)))
+        model.add(MaxPooling2D((2, 2)))
+        model.add(Conv2D(32,8,activation='relu',input_shape=(8,8,3)))
         model.summary()
         model.compile(
             optimizer=Adam(lr=0.001),
