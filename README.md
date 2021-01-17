@@ -364,6 +364,8 @@ pip install pygame
 
 ### Notes
 
+[Notes as PDF](https://drive.google.com/file/d/1YNKJyifMraLWDXggRJbVrlQNRgqvedEE/view?usp=sharing)
+
 ## Homework
 
 Take the [trainer notebook ](https://colab.research.google.com/drive/1XLYVhsT3u5cPPy3Jhc4O-54Sv7ONzRKd?usp=sharing) and make it working on pycharm -> export to .py. In order to work with PyCharm, several components had to be installed with pip: opencv, opencv-python, torchvision, cmake and atari-py
@@ -404,6 +406,8 @@ pip list
 ### Notes
 
 ## Homework
+
+[Moodle description / ](https://moodle.bfh.ch/mod/assign/view.php?id=1258398)[mini-grid code](https://github.com/cedricmoullet/CAS_AI_2020_2021/blob/main/20210112_CrossEntropy/miniGrid.py)
 
 
 
