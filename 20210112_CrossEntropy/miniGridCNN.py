@@ -23,7 +23,8 @@ class Agent:
             The game environment
         """
         self.env = env
-        self.observations = self.env.observation_space.shape[0]
+        #self.observations = self.env.observation_space.shape[0]
+        self.observations = 147
         self.actions = self.env.action_space.n
         self.model = self.get_model()
 
@@ -31,11 +32,11 @@ class Agent:
         """Returns a keras NN model.
         """
         model = Sequential()
-        model.add(Conv2D(32,8,activation='relu',input_shape=(8,8,3)))
-        model.add(MaxPooling2D((2, 2)))
-        model.add(Conv2D(32,8,activation='relu',input_shape=(8,8,3)))
-        model.add(MaxPooling2D((2, 2)))
-        model.add(Conv2D(32,8,activation='relu',input_shape=(8,8,3)))
+        model.add(Conv2D(8,(3,3),activation='relu',input_shape=(8,8,3)))
+        model.add(MaxPooling2D())
+        model.add(Conv2D(8,(3,3),activation='relu',input_shape=(8,8,3)))
+        model.add(MaxPooling2D())
+        model.add(Conv2D(8,(3,3),activation='relu',input_shape=(8,8,3)))
         model.summary()
         model.compile(
             optimizer=Adam(lr=0.001),
@@ -122,7 +123,6 @@ class Agent:
 
 if __name__ == "__main__":
     env = gym.make("MiniGrid-Empty-8x8-v0")
-    env = FlatObsWrapper(env)
     agent = Agent(env)
     print("Number of observations: ", agent.observations)
     print("Number of actions: ", agent.actions)
