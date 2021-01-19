@@ -47,6 +47,7 @@ class Agent:
                     for s_next, count in transitions_s.items():
                         reward = self.rewards[s][a][s_next]
                         best_action = self.get_action(s_next)
+                        # Bellman equation https://towardsdatascience.com/the-bellman-equation-59258a0d3fa7
                         q_value += (count/total_counts) * (reward + self.gamma * self.values[s_next][best_action])
                     self.values[s][a] = q_value
 
