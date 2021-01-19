@@ -415,11 +415,13 @@ pip list
 
 ## Theory
 
-[Keras RL2 / ](https://github.com/wau/keras-rl2)[notebook](https://colab.research.google.com/drive/1KzTM0Wxb97Zqv0Tqm4V-wrs1BtKni2nr?usp=sharing)
+[Keras RL2 / ](https://github.com/wau/keras-rl2)[trainer notebook](https://colab.research.google.com/drive/1KzTM0Wxb97Zqv0Tqm4V-wrs1BtKni2nr?usp=sharing)
 
 ### Notes
 
 ## Homework
+
+[RL2 notebook](https://colab.research.google.com/drive/1H7pkvLjlBXvdtS5JVz-wQLFpUZiFQRlR?usp=sharing)
 
 
 
