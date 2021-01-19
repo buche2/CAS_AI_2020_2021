@@ -417,6 +417,14 @@ pip list
 
 [Keras RL2 / ](https://github.com/wau/keras-rl2)[trainer notebook](https://colab.research.google.com/drive/1KzTM0Wxb97Zqv0Tqm4V-wrs1BtKni2nr?usp=sharing)
 
+Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI_2020_2021/blob/main/20210119_ValueIteration/agent4.py):
+
+- Observations: the possible agent positions in the 4x4 grids. 16 possibilities.
+- Actions: the possible actions made by the agent: up, down, left and right
+- Rewards: the possible rewards, depending of the currrent state, the next state and the action: 16 * 16 * 4
+- Transitions: the possible paths, depending of the currrent state, the next state and the action:: 16 * 16 * 4
+- Values: the Q-values, depending og the state and the action: 16 * 4
+
 ### Notes
 
 ## Homework
