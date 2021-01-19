@@ -415,6 +415,8 @@ pip list
 
 ## Theory
 
+[Keras RL2](https://github.com/wau/keras-rl2)
+
 ### Notes
 
 ## Homework
