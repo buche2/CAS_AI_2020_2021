@@ -403,6 +403,8 @@ pip list
 
 [Q-Learning video](https://www.youtube.com/watch?v=a0bVIyIJ074)
 
+[Gamma value](https://colab.research.google.com/drive/1a2-SwkvyPjlx7PiJKUN485JOAGAm_g6Y?usp=sharing)
+
 ### Notes
 
 [Notes as PDF](https://drive.google.com/file/d/1b42gu2H8sxv9jIg3nBHja62VD1aj9m1c/view?usp=sharing)
@@ -416,6 +418,14 @@ pip list
 ## Theory
 
 [Keras RL2 / ](https://github.com/wau/keras-rl2)[trainer notebook](https://colab.research.google.com/drive/1KzTM0Wxb97Zqv0Tqm4V-wrs1BtKni2nr?usp=sharing)
+
+Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI_2020_2021/blob/main/20210119_ValueIteration/agent4.py):
+
+- Observations: the possible agent positions in the 4x4 grids. 16 possibilities.
+- Actions: the possible actions made by the agent: up, down, left and right
+- Rewards: the possible rewards, depending of the currrent state, the next state and the action: 16 * 16 * 4
+- Transitions: the possible paths, depending of the currrent state, the next state and the action:: 16 * 16 * 4
+- Values: the Q-values, depending og the state and the action: 16 * 4
 
 ### Notes
 
