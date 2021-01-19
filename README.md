@@ -403,6 +403,8 @@ pip list
 
 [Q-Learning video](https://www.youtube.com/watch?v=a0bVIyIJ074)
 
+[Gamma value](https://colab.research.google.com/drive/1a2-SwkvyPjlx7PiJKUN485JOAGAm_g6Y?usp=sharing)
+
 ### Notes
 
 [Notes as PDF](https://drive.google.com/file/d/1b42gu2H8sxv9jIg3nBHja62VD1aj9m1c/view?usp=sharing)
