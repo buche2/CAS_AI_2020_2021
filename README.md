@@ -405,9 +405,20 @@ pip list
 
 ### Notes
 
+[Notes as PDF](https://drive.google.com/file/d/1b42gu2H8sxv9jIg3nBHja62VD1aj9m1c/view?usp=sharing)
+
 ## Homework
 
 [Moodle description / ](https://moodle.bfh.ch/mod/assign/view.php?id=1258398)[mini-grid code](https://github.com/cedricmoullet/CAS_AI_2020_2021/blob/main/20210112_CrossEntropy/miniGrid.py)
+
+# 2021-01-19 12.RL Value iteration
+
+## Theory
+
+### Notes
+
+## Homework
+
 
 
 
