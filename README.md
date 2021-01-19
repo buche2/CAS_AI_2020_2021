@@ -415,7 +415,7 @@ pip list
 
 ## Theory
 
-[Keras RL2](https://github.com/wau/keras-rl2)
+[Keras RL2 / ](https://github.com/wau/keras-rl2)[notebook](https://colab.research.google.com/drive/1KzTM0Wxb97Zqv0Tqm4V-wrs1BtKni2nr?usp=sharing)
 
 ### Notes
 
