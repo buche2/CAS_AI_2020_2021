@@ -427,6 +427,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 - Transitions: the possible paths, depending of the currrent state, the next state and the action:: 16 * 16 * 4
 - Values: the Q-values, depending og the state and the action: 16 * 4
 
+[GridWorld env](https://github.com/addy1997/Gridworld)
+
 ### Notes
 
 ## Homework
