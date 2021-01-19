@@ -451,6 +451,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [GridWorld env](https://github.com/addy1997/Gridworld)
 
+[PyTorch uncertainty estimation - trainer notebook](https://colab.research.google.com/drive/1lhZu_AKW83PVLu76VvzRranPEL_I0M45?usp=sharing)
+
 ### Notes
 
 ## Homework
