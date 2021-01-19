@@ -40,10 +40,32 @@
   * [Homework](#homework-5)
 - [2020-12-08 8.GAN](#2020-12-08-8gan)
   * [Theory](#theory-7)
+    + [Notes](#notes-6)
   * [Homework](#homework-6)
 - [2020-12-15 9.RNN](#2020-12-15-9rnn)
   * [Theory](#theory-8)
+    + [Notes](#notes-7)
   * [Homework](#homework-7)
+- [2021-01-05 10.RL Grundlagen](#2021-01-05-10rl-grundlagen)
+  * [Theory](#theory-9)
+    + [Setup](#setup)
+    + [Categories of machine learning](#categories-of-machine-learning)
+    + [Use cases of machine learning](#use-cases-of-machine-learning)
+    + [Categories of reinforcement learning](#categories-of-reinforcement-learning)
+    + [Notes](#notes-8)
+  * [Homework](#homework-8)
+- [2021-01-12 11.RL Cross Entropy](#2021-01-12-11rl-cross-entropy)
+  * [Theory](#theory-10)
+    + [Q-Learning intro](#q-learning-intro)
+    + [Notes](#notes-9)
+  * [Homework](#homework-9)
+- [2021-01-19 12.RL Value iteration](#2021-01-19-12rl-value-iteration)
+  * [Theory](#theory-11)
+    + [Notes](#notes-10)
+  * [Homework](#homework-10)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 CAS about artificial intelligence made at BFH in 2020 and 2021.
   
