@@ -459,6 +459,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [RL2 notebook](https://colab.research.google.com/drive/1H7pkvLjlBXvdtS5JVz-wQLFpUZiFQRlR?usp=sharing)
 
+[Finance processing with AI](https://github.com/firmai/financial-machine-learning)
+
 
 
 
