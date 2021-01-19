@@ -19,6 +19,7 @@ class Agent:
         self.state = self.env.reset()
 
     def get_action(self, s_next):
+        # Recherche des actions qui mènent à la Q-Value maximum
         act = np.argmax(list(self.values[s_next].values()))
         return act
 
