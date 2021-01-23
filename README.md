@@ -461,7 +461,7 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [Finance processing with AI](https://github.com/firmai/financial-machine-learning)
 
-[PyTorch uncertainty estimation - trainer notebook / ](https://colab.research.google.com/drive/1lhZu_AKW83PVLu76VvzRranPEL_I0M45?usp=sharing)[Uncertainty estimation - my notebook](https://colab.research.google.com/drive/14Flt9gAQLALigN4XzntFBFd3fnzDJ7aK?usp=sharing)
+[PyTorch uncertainty estimation - trainer notebook / ](https://colab.research.google.com/drive/1lhZu_AKW83PVLu76VvzRranPEL_I0M45?usp=sharing)[my notebook](https://colab.research.google.com/drive/14Flt9gAQLALigN4XzntFBFd3fnzDJ7aK?usp=sharing)
 
 
 
