@@ -1,10 +1,12 @@
 import gym
 import matplotlib.pyplot as plt
 import numpy as np
-from gym_minigrid.wrappers import FlatObsWrapper
-from tensorflow.keras.layers import Activation
+from gym_minigrid.wrappers import RGBImgPartialObsWrapper
+from gym_minigrid.wrappers import ImgObsWrapper
 from tensorflow.keras.layers import Conv2D
 from tensorflow.keras.layers import MaxPooling2D
+from tensorflow.keras.layers import Flatten
+from tensorflow.keras.layers import Dense
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.utils import to_categorical
@@ -32,12 +34,11 @@ class Agent:
         """Returns a keras NN model.
         """
         model = Sequential()
-        model.add(Conv2D(8,(3,3),activation='relu',input_shape=(8,8,3)))
-        model.add(MaxPooling2D())
-        model.add(Conv2D(8,(3,3),activation='relu',input_shape=(8,8,3)))
-        model.add(MaxPooling2D())
-        model.add(Conv2D(8,(3,3),activation='relu',input_shape=(8,8,3)))
-        model.summary()
+        model.add(Conv2D(32, (2, 2), activation='relu', input_shape=(56, 56, 3)))
+        model.add(MaxPooling2D((2, 2)))
+        model.add(Flatten())
+        model.add(Dense(64, activation='relu'))
+        model.add(Dense(units=self.actions, activation='softmax'))
         model.compile(
             optimizer=Adam(lr=0.001),
             loss="categorical_crossentropy",
@@ -48,7 +49,8 @@ class Agent:
     def get_action(self, state):
         """Based on the state, get an action.
         """
-        state = state.reshape(1, -1) # [4,] => [1, 4]
+        state = state.reshape(1, 56, 56, 3)  # 1 is the batch dim
+        #state = state.reshape(1, -1) # [4,] => [1, 4]
         state = state/255.
         action = self.model(state, training=False).numpy()[0]
         action = np.random.choice(self.actions, p=action) # choice([0, 1], [0.5044534  0.49554658])
@@ -123,8 +125,9 @@ class Agent:
 
 if __name__ == "__main__":
     env = gym.make("MiniGrid-Empty-8x8-v0")
+    env = RGBImgPartialObsWrapper(env)  # Get pixel observations
+    env = ImgObsWrapper(env)  # Get rid of the 'mission' field
     agent = Agent(env)
-    print("Number of observations: ", agent.observations)
     print("Number of actions: ", agent.actions)
     agent.train(percentile=99.9, num_iterations=64, num_episodes=128)
     agent.play(num_episodes=3)
