@@ -427,6 +427,8 @@ pip list
 
 [Gamma value](https://colab.research.google.com/drive/1a2-SwkvyPjlx7PiJKUN485JOAGAm_g6Y?usp=sharing)
 
+[Policy Gradient with gym-MiniGrid](https://goodboychan.github.io/chans_jupyter/python/pytorch/reinforcement_learning/2020/08/06/03-Policy-Gradient-With-Gym-MiniGrid.html)
+
 ### Notes
 
 [Notes as PDF](https://drive.google.com/file/d/1b42gu2H8sxv9jIg3nBHja62VD1aj9m1c/view?usp=sharing)
