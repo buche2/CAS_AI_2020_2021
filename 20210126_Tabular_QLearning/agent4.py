@@ -22,8 +22,8 @@ class Agent:
         return act
 
     def get_value(self, s_next):
-        act = np.max(list(self.values[s_next].values()))
-        return act
+        act_value = np.max(list(self.values[s_next].values()))
+        return act_value
 
     def get_random_action(self):
         action = self.env.action_space.sample()
@@ -44,7 +44,7 @@ class Agent:
         q_prime = self.get_value(s_next)
         update_q = r + self.gamma * q_prime
         q = self.values[s][a]
-        # Q(s,a) = (1 - allpha) * Q(s,a) + alpha * (r + gamma * max(a') Q(s',a'))
+        # Q(s,a) = (1 - alpha) * Q(s,a) + alpha * (r + gamma * max(a') Q(s',a'))
         q = (1 - self.alpha) * q + self.alpha * update_q
         self.values[s][a] = q
 
