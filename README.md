@@ -483,6 +483,7 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 ## Homework
 
+[Avocado exercise](https://colab.research.google.com/drive/1jm1FDv7aDzv-uu6LVZ939R2yiuDht4rK?usp=sharing)
 
 
 
