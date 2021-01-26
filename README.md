@@ -455,13 +455,15 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 ### Notes
 
+[Notes as PDF](https://drive.google.com/file/d/1JefLVsqWmIKaQTQyCq-ftzuiTqXwGA5x/view?usp=sharing)
+
 ## Homework
 
 [RL2 notebook](https://colab.research.google.com/drive/1H7pkvLjlBXvdtS5JVz-wQLFpUZiFQRlR?usp=sharing)
 
 [Finance processing with AI](https://github.com/firmai/financial-machine-learning)
 
-[PyTorch uncertainty estimation - trainer notebook / ](https://colab.research.google.com/drive/1lhZu_AKW83PVLu76VvzRranPEL_I0M45?usp=sharing)[my notebook / ](https://colab.research.google.com/drive/14Flt9gAQLALigN4XzntFBFd3fnzDJ7aK?usp=sharing)[video](https://youtu.be/mM0QyaAEu9Q)
+[PyTorch uncertainty estimation - trainer notebook / ](https://colab.research.google.com/drive/1lhZu_AKW83PVLu76VvzRranPEL_I0M45?usp=sharing)[my notebook / ](https://colab.research.google.com/drive/1fEGWQjmR5iK7RMiBQtQdsXvbcNjPrYWN?usp=sharing)[video](https://youtu.be/mM0QyaAEu9Q)
 
 # 2021-01-26 13. Tabular Q-Learning
 
