@@ -481,6 +481,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [Holt winters forecasting](https://towardsdatascience.com/holt-winters-exponential-smoothing-d703072c0572)
 
+[Theta model](https://www.statsmodels.org/stable/examples/notebooks/generated/theta-model.html#:~:text=The%20Theta%20model%20of%20Assimakopoulos,to%20produce%20the%20final%20forecast.)
+
 ### Notes
 
 ## Homework
