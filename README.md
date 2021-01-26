@@ -463,9 +463,11 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [PyTorch uncertainty estimation - trainer notebook / ](https://colab.research.google.com/drive/1lhZu_AKW83PVLu76VvzRranPEL_I0M45?usp=sharing)[my notebook / ](https://colab.research.google.com/drive/14Flt9gAQLALigN4XzntFBFd3fnzDJ7aK?usp=sharing)[video](https://youtu.be/mM0QyaAEu9Q)
 
-# 2021-01-26 13.
+# 2021-01-26 13. Tabular Q-Learning
 
 ## Theory
+
+[Tabular Q-Learning source code](https://github.com/cedricmoullet/CAS_AI_2020_2021/tree/main/20210126_Tabular_QLearning)
 
 ### Notes
 
