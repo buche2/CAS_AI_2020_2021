@@ -98,6 +98,14 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 1. Machine Learning, Tom Mitchell, McGraw Hill, 1997 http://www.cs.cmu.edu/~tom/mlbook.html
 2. Deeplearning, Ian Goodfellow https://www.deeplearningbook.org/contents/mlp.html
 
+## Tricks
+
+Update python packages
+
+```
+pip list --outdated
+pip3 list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip3 install -U
+```
 
 # 2020-10-20 1.Einführung in AI Grundtechniken: Gradient Descent,partielle Ableitungen, Matrix Algebra, AI Frameworks
 
