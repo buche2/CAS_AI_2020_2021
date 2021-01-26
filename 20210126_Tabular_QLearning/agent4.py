@@ -35,6 +35,8 @@ class Agent:
         new_state, reward, done, _ = self.env.step(action)
         if done:
             self.state = self.env.reset()
+            if reward == 0:
+                reward = -100
         else:
             self.state = new_state
         return (old_state, action, reward, new_state)
