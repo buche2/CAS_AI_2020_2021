@@ -479,6 +479,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [Tabular Q-Learning source code](https://github.com/cedricmoullet/CAS_AI_2020_2021/tree/main/20210126_Tabular_QLearning)
 
+[Holt winters forecasting](https://towardsdatascience.com/holt-winters-exponential-smoothing-d703072c0572)
+
 ### Notes
 
 ## Homework
