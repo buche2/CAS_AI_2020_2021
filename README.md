@@ -503,6 +503,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 ## Homework
 
+[Exercise - my notebook](https://colab.research.google.com/drive/1r1h-g7mrER5yzArF8rGNhy621mlHrRBZ?usp=sharing)
+
 
 
 
