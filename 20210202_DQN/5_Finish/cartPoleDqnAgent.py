@@ -44,14 +44,14 @@ class Agent:
         self.target_dqn.update_model(self.dqn)
         self.batch_size = 32
 
-    def get_action(self, state):
+    def get_action(self, state: np.ndarray):
         if np.random.rand() <= self.epsilon:
             return np.random.randint(self.actions)
         else:
             return np.argmax(self.dqn(state))
 
-    def train(self, num_episodes):
-        last_rewards: Deque = collections.deque(maxlen=10)
+    def train(self, num_episodes: int):
+        last_rewards: Deque = collections.deque(maxlen=5)
         best_reward_mean = 0.0
         for episode in range(1, num_episodes + 1):
             total_reward = 0.0
@@ -62,14 +62,14 @@ class Agent:
                 next_state, reward, done, _ = self.env.step(action)
                 next_state = np.reshape(next_state, newshape=(1, -1)).astype(np.float32)
                 if done and total_reward < 499:
-                    reward = -100
+                    reward = -100.0
                 self.remember(state, action, reward, next_state, done)
                 self.replay()
                 total_reward += reward
                 state = next_state
                 if done:
                     if total_reward < 500:
-                        total_reward += 100
+                        total_reward += 100.0
                     self.target_dqn.update_model(self.dqn)
                     print(f"Episode: {episode} Reward: {total_reward} Epsilon: {self.epsilon}")
                     last_rewards.append(total_reward)
@@ -108,7 +108,7 @@ class Agent:
 
         self.dqn.fit(states, q_values)
 
-    def play(self, num_episodes, render=True):
+    def play(self, num_episodes: int, render: bool = True):
         self.dqn.load_model(MODEL_PATH)
         for episode in range(1, num_episodes + 1):
             total_reward = 0.0
@@ -123,13 +123,13 @@ class Agent:
                 total_reward += reward
                 state = next_state
                 if done:
-                    print(f"Episode: {episode} Reward: {total_reward} Epsilon: {self.epsilon}")
+                    print(f"Episode: {episode} Reward: {total_reward}")
                     break
 
 
 if __name__ == "__main__":
     env = gym.make("CartPole-v1")
     agent = Agent(env)
-    agent.train(num_episodes=200)
+    # agent.train(num_episodes=200)
     # input("Play?")
-    # agent.play(num_episodes=30, render=True)
+    agent.play(num_episodes=30, render=True)
