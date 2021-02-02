@@ -144,7 +144,7 @@ class Agent:
 if __name__ == "__main__":
     env = gym.make("CartPole-v1")
     agent = Agent(env)
-    # agent.train(num_episodes=250)
-    # input("Play?")
-    # In order to make play working I had to update h5py: pip3 install 'h5py<3.0.0'
+    #agent.train(num_episodes=250)
+    #input("Play?")
+    # In order to make play working I had to update h5py: y
     agent.play(num_episodes=20, render=True)
