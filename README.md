@@ -495,7 +495,9 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [Advanced Forecasting with LSTM and verification of results using Multi-Step Forecasting Devoir - trainer notebook / ](https://colab.research.google.com/drive/1CcpEtz1mdcUmYYAU5uTuJTPbfLFD0yz-?usp=sharing)[my notebook](https://colab.research.google.com/drive/1xGGbUc7pfu6T4EGF-L6LlrtI4Im7wg0_?usp=sharing)
 
-[Video lesson](https://www.youtube.com/watch?v=OYhFoMySoVs)
+[DQN Video lesson](https://www.youtube.com/watch?v=OYhFoMySoVs)
+
+[DQN Cart pole](https://github.com/cedricmoullet/CAS_AI_2020_2021/tree/main/20210202_DQN)
 
 ### Notes
 
