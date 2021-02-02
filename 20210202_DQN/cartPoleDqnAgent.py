@@ -9,7 +9,7 @@ import numpy as np
 from cartPoleDqn import DQN
 
 
-PROJECT_PATH = os.path.abspath("C:/Users/iljar/PycharmProjects/DQN")
+PROJECT_PATH = os.path.abspath("/Users/cedricmoullet/sandbox/CAS_AI_2020_2021/20210202_DQN")
 MODELS_PATH = os.path.join(PROJECT_PATH, "models")
 MODEL_PATH = os.path.join(MODELS_PATH, "dqn_cartpole.h5")
 TARGET_MODEL_PATH = os.path.join(MODELS_PATH, "target_dqn_cartpole.h5")
