@@ -9,7 +9,7 @@ import numpy as np
 from cartPoleDqn import DQN
 
 
-PROJECT_PATH = os.path.abspath("C:/Users/iljar/PycharmProjects/DQN")
+PROJECT_PATH = os.path.abspath("/Users/cedricmoullet/sandbox/CAS_AI_2020_2021/20210202_DQN")
 MODELS_PATH = os.path.join(PROJECT_PATH, "models")
 MODEL_PATH = os.path.join(MODELS_PATH, "dqn_cartpole.h5")
 
@@ -130,6 +130,6 @@ class Agent:
 if __name__ == "__main__":
     env = gym.make("CartPole-v1")
     agent = Agent(env)
-    # agent.train(num_episodes=200)
-    # input("Play?")
+    agent.train(num_episodes=200)
+    input("Play?")
     agent.play(num_episodes=30, render=True)
