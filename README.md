@@ -505,6 +505,14 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [Exercise - my notebook](https://colab.research.google.com/drive/1r1h-g7mrER5yzArF8rGNhy621mlHrRBZ?usp=sharing)
 
+[Exercise - my notebook with price only](https://colab.research.google.com/drive/1_kCQ6fFFA6HLxYRE_Mt54peUCkQYEzA0)
+
+[Exercise - my notebook with cryptocurrencies](https://colab.research.google.com/drive/1XyPIXMh13C17-g3wdD4J9pc_dMnH8eHJ)
+
+
+
+
+
 
 
 
