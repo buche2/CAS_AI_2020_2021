@@ -8,7 +8,7 @@ import numpy as np
 from reinforce_torch import PolicyGradientAgent
 from typing import Deque, List
 
-PROJECT_PATH = os.path.abspath("C:/Users/iljar/PycharmProjects/Reinforce")
+PROJECT_PATH = os.path.abspath("/Users/cedricmoullet/sandbox/CAS_AI_2020_2021/20210209_Reinforce")
 MODELS_PATH = os.path.join(PROJECT_PATH, "models")
 MODEL_PATH = os.path.join(MODELS_PATH, "reinforce_lunarlander.pt")
 PLOTS_PATH = os.path.join(PROJECT_PATH, "plots")
