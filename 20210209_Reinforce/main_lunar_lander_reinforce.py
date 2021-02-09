@@ -59,11 +59,10 @@ def train(env, agent: PolicyGradientAgent, n_games: int):
     return scores
 
 def play(env, agent, n_games: int):
-    agent.policy.load_state_dict(torch.load(MODEL_PATH))
     scores = []
 
     for i in range(n_games):
-        obs = env.reset()
+        env.reset()
         score = 0
         done = False
         while not done:
@@ -77,15 +76,18 @@ def play(env, agent, n_games: int):
 
 if __name__ == '__main__':
     env = gym.make('LunarLander-v2')
-    n_games = 30
+    n_games = 3000
     agent = PolicyGradientAgent(gamma=0.99, lr=0.0005, input_dims=[8],
                                 n_actions=4)
+
     if os.path.exists(MODEL_PATH):
         agent.policy.load_state_dict(torch.load(MODEL_PATH))
 
+    # Train the model
     scores = train(env, agent, n_games)
     plot_learning_curve(scores, agent, n_games)
 
-    #input("Play?")
+    # Play with the trained model
+    # input("Play?")
     scores = play(env, agent, n_games=20)
     print(f"Scores mean: {np.mean(scores)}")
