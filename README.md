@@ -521,6 +521,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 ## Theory
 
+[Reinforce example with lunar lander](https://github.com/cedricmoullet/CAS_AI_2020_2021/tree/main/20210209_Reinforce)
+
 ### Notes
 
 ## Homework
