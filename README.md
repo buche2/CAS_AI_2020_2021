@@ -465,6 +465,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [Notes as PDF](https://drive.google.com/file/d/1JefLVsqWmIKaQTQyCq-ftzuiTqXwGA5x/view?usp=sharing)
 
+[Notes as PDF](https://drive.google.com/file/d/1asL1bSbQ5tIw6w17jjZyH6sFGvzIqWu_/view?usp=sharing)
+
 ## Homework
 
 [RL2 notebook](https://colab.research.google.com/drive/1H7pkvLjlBXvdtS5JVz-wQLFpUZiFQRlR?usp=sharing)
@@ -485,6 +487,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 ### Notes
 
+[Notes as PDF](https://drive.google.com/file/d/1JwDIo6hSlAMSD2aeNjmIX6Pc-fuOuqi3/view?usp=sharing)
+
 ## Homework
 
 [Avocado exercise - trainer notebook / ](https://colab.research.google.com/drive/15kA3uh34pwyHERM1xa3aOl8fahpOV_MW?usp=sharing)[my notebook](https://colab.research.google.com/drive/1DqSa4fHoay2vQzQablJ0G-f-hngGnlue?usp=sharing)
@@ -500,6 +504,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 [DQN Cart pole](https://github.com/cedricmoullet/CAS_AI_2020_2021/tree/main/20210202_DQN)
 
 ### Notes
+
+[Notes as PDF](https://drive.google.com/file/d/1JVXejKYdjHfJIkEbzTkfMIlIa9Yp0yl3/view?usp=sharing)
 
 ## Homework
 
