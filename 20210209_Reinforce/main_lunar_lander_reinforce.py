@@ -13,6 +13,7 @@ MODELS_PATH = os.path.join(PROJECT_PATH, "models")
 MODEL_PATH = os.path.join(MODELS_PATH, "reinforce_lunarlander.pt")
 PLOTS_PATH = os.path.join(PROJECT_PATH, "plots")
 
+# box2d has to be installed: pip3 install box2d
 
 def plot_learning_curve(scores, agent: PolicyGradientAgent, n_games: int):
     fname = 'REINFORCE_' + 'lunar_lunar_lr' + str(agent.lr) + '_' \
@@ -67,9 +68,9 @@ if __name__ == '__main__':
     if os.path.exists(MODEL_PATH):
         agent.policy.load_state_dict(torch.load(MODEL_PATH))
 
-    #scores = train(env, agent, n_games)
-    #plot_learning_curve(scores, agent, n_games)
+    scores = train(env, agent, n_games)
+    plot_learning_curve(scores, agent, n_games)
 
     #input("Play?")
-    scores = play(env, agent, n_games=20)
-    print(f"Scores mean: {np.mean(scores)}")
+    #scores = play(env, agent, n_games=20)
+    #print(f"Scores mean: {np.mean(scores)}")
