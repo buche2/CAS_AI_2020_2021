@@ -511,26 +511,10 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [Exercise - my second notebook with cryptocurrencies](https://colab.research.google.com/drive/1kzdDADR3ypD4gOUN1aJRGC2IhjbWTzVm?usp=sharing)
 
+# 2021-02-09 15. Reinforce
 
+## Theory
 
+### Notes
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Homework
