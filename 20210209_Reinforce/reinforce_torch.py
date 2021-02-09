@@ -12,7 +12,7 @@ class PolicyNetwork(nn.Module): # Tensorflow: Model
         self.fc3 = nn.Linear(128, n_actions)
         self.optimizer = optim.Adam(self.parameters(), lr=lr)
 
-        self.device = T.device('cuda:0' if T.cuda.is_available() else 'cpu') # Execution can be configured 
+        self.device = T.device('cuda:0' if T.cuda.is_available() else 'cpu') # Execution can be configured
         self.to(self.device)
 
     def forward(self, state):
