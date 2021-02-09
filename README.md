@@ -1,5 +1,3 @@
-# CAS Artificial intelligence 2020-2021
-
 - [CAS Artificial intelligence 2020-2021](#cas-artificial-intelligence-2020-2021)
 - [Ressources](#ressources)
   * [Interative course script](#interative-course-script)
@@ -7,6 +5,7 @@
   * [Videos](#videos)
   * [Tutorial](#tutorial)
   * [Book](#book)
+  * [Tricks](#tricks)
 - [2020-10-20 1.Einführung in AI Grundtechniken: Gradient Descent,partielle Ableitungen, Matrix Algebra, AI Frameworks](#2020-10-20-1einf-hrung-in-ai-grundtechniken--gradient-descent-partielle-ableitungen--matrix-algebra--ai-frameworks)
   * [Theory](#theory)
     + [General AI principle](#general-ai-principle)
@@ -63,8 +62,21 @@
   * [Theory](#theory-11)
     + [Notes](#notes-10)
   * [Homework](#homework-10)
+- [2021-01-26 13. Tabular Q-Learning](#2021-01-26-13-tabular-q-learning)
+  * [Theory](#theory-12)
+    + [Notes](#notes-11)
+  * [Homework](#homework-11)
+- [2021-02-02 14. Deep Q Learning](#2021-02-02-14-deep-q-learning)
+  * [Theory](#theory-13)
+    + [Notes](#notes-12)
+  * [Homework](#homework-12)
+- [2021-02-09 15. Reinforce](#2021-02-09-15-reinforce)
+  * [Theory](#theory-14)
+    + [Notes](#notes-13)
+  * [Homework](#homework-13)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 CAS about artificial intelligence made at BFH in 2020 and 2021.
