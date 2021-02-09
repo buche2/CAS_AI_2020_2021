@@ -541,6 +541,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [Claude Shannon](https://fr.wikipedia.org/wiki/Claude_Shannon)
 
+[Frank Rosenblatt](https://fr.wikipedia.org/wiki/Frank_Rosenblatt)
+
 ### Notes
 
 ## Homework
