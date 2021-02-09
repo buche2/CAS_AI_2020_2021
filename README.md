@@ -539,6 +539,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [RL book](http://incompleteideas.net/book/RLbook2020.pdf)
 
+[Claude Shannon](https://fr.wikipedia.org/wiki/Claude_Shannon)
+
 ### Notes
 
 ## Homework
