@@ -148,6 +148,7 @@ class Agent:
 if __name__ == "__main__":
     env = gym.make("CartPole-v1")
     agent = Agent(env)
-    agent.train(num_episodes=300)
-    input("Play?")
+    #agent.train(num_episodes=300)
+    #input("Play?")
+    agent.epsilon = 0 # In order to avoid that the play makes a training
     agent.play(num_episodes=20, render=True)
