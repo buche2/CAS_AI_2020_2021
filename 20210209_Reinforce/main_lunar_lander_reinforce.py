@@ -62,14 +62,15 @@ def play(env, agent, n_games: int):
     scores = []
 
     for i in range(n_games):
-        env.reset()
+        observation = env.reset()
         score = 0
         done = False
         while not done:
-            action = env.action_space.sample()
+            action = agent.choose_action(observation)
             obs_, reward, done, info = env.step(action)
             score += reward
             env.render()
+            observation = obs_
         print('episode ', i, 'score %.1f' % score)
         scores.append(score)
     return scores
@@ -84,8 +85,8 @@ if __name__ == '__main__':
         agent.policy.load_state_dict(torch.load(MODEL_PATH))
 
     # Train the model
-    scores = train(env, agent, n_games)
-    plot_learning_curve(scores, agent, n_games)
+    # scores = train(env, agent, n_games)
+    # plot_learning_curve(scores, agent, n_games)
 
     # Play with the trained model
     # input("Play?")
