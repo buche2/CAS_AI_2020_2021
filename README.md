@@ -523,6 +523,10 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [Reinforce example with lunar lander](https://github.com/cedricmoullet/CAS_AI_2020_2021/tree/main/20210209_Reinforce)
 
+[An Intuitive Explanation of Policy Gradient](https://towardsdatascience.com/an-intuitive-explanation-of-policy-gradient-part-1-reinforce-aa4392cbfd3c)
+
+[RL book](http://incompleteideas.net/book/RLbook2020.pdf)
+
 ### Notes
 
 ## Homework
