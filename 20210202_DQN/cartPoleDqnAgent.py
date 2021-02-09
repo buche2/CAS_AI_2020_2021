@@ -22,7 +22,7 @@ class Agent:
         self.observations = self.env.observation_space.shape
         self.actions = self.env.action_space.n
         # DQN Agent Variables
-        self.replay_buffer_size = 50_000
+        self.replay_buffer_size = 100_000
         self.train_start = 1_000
         self.memory: Deque = collections.deque(
             maxlen=self.replay_buffer_size
@@ -44,7 +44,7 @@ class Agent:
             self.actions,
             self.learning_rate
         )
-        self.batch_size = 32
+        self.batch_size = 64
 
     def get_action(self, state: np.ndarray):
         if np.random.rand() <= self.epsilon:
@@ -73,14 +73,15 @@ class Agent:
                 state = next_state
 
                 if done:
-                    if total_reward < 500:
+                    if total_reward != 500:
                         total_reward += 100.0
+                    self.target_dqn.update_model(self.dqn)
                     print(f"Episode: {episode} Reward: {total_reward} Epsilon: {self.epsilon}")
                     last_rewards.append(total_reward)
                     current_reward_mean = np.mean(last_rewards)
 
                     if current_reward_mean > best_reward_mean:
-                        self.target_dqn.update_model(self.dqn)
+                        #self.target_dqn.update_model(self.dqn)
                         best_reward_mean = current_reward_mean
                         self.dqn.save_model(MODEL_PATH)
                         self.target_dqn.save_model(TARGET_MODEL_PATH)
@@ -105,8 +106,11 @@ class Agent:
         states = np.concatenate(states).astype(np.float32)
         states_next = np.concatenate(states_next).astype(np.float32)
 
+        # keine reine Initialisierung
         q_values = self.dqn(states)
         q_values_next = self.target_dqn(states_next)
+
+
 
         for i in range(self.batch_size):
             a = actions[i]
@@ -144,7 +148,6 @@ class Agent:
 if __name__ == "__main__":
     env = gym.make("CartPole-v1")
     agent = Agent(env)
-    #agent.train(num_episodes=250)
-    #input("Play?")
-    # In order to make play working I had to update h5py: y
+    agent.train(num_episodes=300)
+    input("Play?")
     agent.play(num_episodes=20, render=True)
