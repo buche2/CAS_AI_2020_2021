@@ -22,8 +22,8 @@ class Agent:
         self.observations = self.env.observation_space.shape
         self.actions = self.env.action_space.n
         # DQN Agent Variables
-        self.replay_buffer_size = 100_000
-        self.train_start = 1_000
+        self.replay_buffer_size = 100000
+        self.train_start = 1000
         self.memory: Deque = collections.deque(
             maxlen=self.replay_buffer_size
         )
@@ -33,7 +33,7 @@ class Agent:
         self.epsilon_decay = 0.995
         # DQN Network Variables
         self.state_shape = self.observations
-        self.learning_rate = 1e-3
+        self.learning_rate = 0.01
         self.dqn = DQN(
             self.state_shape,
             self.actions,
@@ -126,6 +126,7 @@ class Agent:
         self.dqn.load_model(MODEL_PATH)
         self.target_dqn.load_model(TARGET_MODEL_PATH)
 
+        sum_total_reward = 0.0
         for episode in range(1, num_episodes + 1):
             total_reward = 0.0
             state = self.env.reset()
@@ -142,13 +143,16 @@ class Agent:
 
                 if done:
                     print(f"Episode: {episode} Reward: {total_reward}")
+                    sum_total_reward = sum_total_reward + total_reward
                     break
+
+        print(f"Total reward mean: {sum_total_reward/num_episodes}")
 
 
 if __name__ == "__main__":
     env = gym.make("CartPole-v1")
     agent = Agent(env)
-    #agent.train(num_episodes=300)
-    #input("Play?")
+    agent.train(num_episodes=300)
+    input("Play?")
     agent.epsilon = 0 # In order to avoid that the play makes a training
     agent.play(num_episodes=20, render=True)
