@@ -85,10 +85,10 @@ if __name__ == '__main__':
         agent.policy.load_state_dict(torch.load(MODEL_PATH))
 
     # Train the model
-    # scores = train(env, agent, n_games)
-    # plot_learning_curve(scores, agent, n_games)
+    scores = train(env, agent, n_games)
+    plot_learning_curve(scores, agent, n_games)
 
     # Play with the trained model
-    # input("Play?")
+    input("Play?")
     scores = play(env, agent, n_games=20)
     print(f"Scores mean: {np.mean(scores)}")
