@@ -109,6 +109,7 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 
 1. Machine Learning, Tom Mitchell, McGraw Hill, 1997 http://www.cs.cmu.edu/~tom/mlbook.html
 2. Deeplearning, Ian Goodfellow https://www.deeplearningbook.org/contents/mlp.html
+3. CNN Cheat sheet https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
 
 ## Tricks
 
@@ -298,7 +299,7 @@ Convolution is a serie of scalar product.
 
 [Conv Variational Autoencoder homework -  With CIFAR 10 -> finally cancelled](https://colab.research.google.com/drive/1li43rVySv0XUc0hwBiY6Zu8tn-9hYw2O)
 
-[Robist Conv Variational Autoencoder homework - with MNIST - Trainer notebook / ](https://colab.research.google.com/drive/1t6v9ILqZVuqP5Fv01wNKcSJd5ou7Vfvp?usp=sharing)[Homework #3](https://colab.research.google.com/drive/1GHYzU7i11U4HHEa8OW4hYHnJV8QQE2OY#scrollTo=2M7LmLtGEMQJ)
+[Robust Conv Variational Autoencoder homework - with MNIST - Trainer notebook / ](https://colab.research.google.com/drive/1t6v9ILqZVuqP5Fv01wNKcSJd5ou7Vfvp?usp=sharing)[Homework #3](https://colab.research.google.com/drive/1GHYzU7i11U4HHEa8OW4hYHnJV8QQE2OY#scrollTo=2M7LmLtGEMQJ)
 
 # 2020-12-01 7.CNN - Transfer Learning
 
