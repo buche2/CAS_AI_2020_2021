@@ -65,14 +65,16 @@ class Agent:
             total_reward = 0.0
             state = self.env.reset()
             state = np.reshape(state, newshape=(1, -1)).astype(np.float32)
-
+            n = 0
             while True:
+                n = n + 1
                 action = self.get_action(state)
                 next_state, reward, done, _ = self.env.step(action)
                 next_state = np.reshape(next_state, newshape=(1, -1)).astype(np.float32)
                 if done and total_reward < 499:
                     reward = -100.0
-                self.update_policy(state, action, reward, next_state, done)
+                if (n % 1 == 0):
+                    self.update_policy(state, action, reward, next_state, done)
                 total_reward += reward
                 state = next_state
 
@@ -117,6 +119,6 @@ class Agent:
 if __name__ == "__main__":
     env = gym.make("CartPole-v1")
     agent = Agent(env)
-    agent.train(num_episodes=1_000)
+    agent.train(num_episodes=1000)
     input("Play?")
     agent.play(num_episodes=10, render=True)
