@@ -554,6 +554,11 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [Reinforcement learning cheat sheet](http://www.stochasticgrad.com/article/reinforcement_learning_cheat_sheet)
 
+![Cheat sheet 1](https://drive.google.com/uc?export=view&id=1kdSiHBCggRPz21tjxIzKawr7mqWcCIP6) 
+
+![Cheat sheet 2](https://drive.google.com/uc?export=view&id=1mM-QoiPEEbvmuK735kRKqC1aWF54niAp) 
+
+
 ### Notes
 
 ## Homework
