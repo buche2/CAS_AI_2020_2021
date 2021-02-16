@@ -13,8 +13,8 @@ from nn import *
 class Agent:
     def __init__(self, env):
         self.env = env
-        self.num_observations = self.env.observation_space.shape[0]
-        self.num_actions = self.env.action_space.n
+        self.num_observations = self.env.observation_space.shape[0] # Cart position, cart velocity, pole angle, pole velocity at tip
+        self.num_actions = self.env.action_space.n # push left or push right
         self.num_values = 1
         self.gamma = 0.99
         self.lr_actor = 1e-3
@@ -30,14 +30,14 @@ class Agent:
         values = np.zeros((1, self.num_values))
         advantages = np.zeros((1, self.num_actions))
 
-        value = self.model.predict_critic(state)[0]
+        value_predicted = self.model.predict_critic(state)[0]
         next_value = self.model.predict_critic(next_state)[0]
 
         if done:
-            advantages[0][action] = reward - value
+            advantages[0][action] = reward - value_predicted
             values[0][0] = reward
         else:
-            advantages[0][action] = (reward + self.gamma * next_value) - value
+            advantages[0][action] = (reward + self.gamma * next_value) - value_predicted
             values[0][0] = reward + self.gamma * next_value
 
         self.model.train_actor(state, advantages)
