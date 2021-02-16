@@ -10,7 +10,7 @@ from cartpoleA2CNN import Actor
 from cartpoleA2CNN import Critic
 
 
-PROJECT_PATH = os.path.abspath("C:/Users/iljar/PycharmProjects\PolicyGradient_A2C")
+PROJECT_PATH = os.path.abspath("/Users/cedricmoullet/sandbox/CAS_AI_2020_2021/20210216_PolicyGradient_A2C_V2")
 MODELS_PATH = os.path.join(PROJECT_PATH, "models")
 ACTOR_PATH = os.path.join(MODELS_PATH, "actor_cartpole.h5")
 CRITIC_PATH = os.path.join(MODELS_PATH, "critic_cartpole.h5")
