@@ -558,6 +558,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 ![Cheat sheet 2](https://drive.google.com/uc?export=view&id=1mM-QoiPEEbvmuK735kRKqC1aWF54niAp) 
 
+[Reinforcement learning book](https://drive.google.com/file/d/1N7qjpyiEbJMNvnExAp_AiEG_pOGk0Q9D/view?usp=sharing)
+
 
 ### Notes
 
