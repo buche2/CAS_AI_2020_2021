@@ -560,6 +560,7 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [Reinforcement learning book](https://drive.google.com/file/d/1N7qjpyiEbJMNvnExAp_AiEG_pOGk0Q9D/view?usp=sharing)
 
+[Sequence modeling with attenion - trainer notebook](https://colab.research.google.com/drive/180svV6DcLua-mkfyRyI1nbMNji_74uaq?usp=sharing)
 
 ### Notes
 
