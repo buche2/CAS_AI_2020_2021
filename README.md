@@ -560,8 +560,9 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [Reinforcement learning book](https://drive.google.com/file/d/1N7qjpyiEbJMNvnExAp_AiEG_pOGk0Q9D/view?usp=sharing)
 
-[Sequence modeling with attenion - trainer notebook](https://colab.research.google.com/drive/180svV6DcLua-mkfyRyI1nbMNji_74uaq?usp=sharing)[ with ECG data - my notebook](https://colab.research.google.com/drive/1f0vaazUlWX3ThmDZPl8IyjeHNw7s6EcH?usp=sharing)
-
 ### Notes
 
 ## Homework
+[Sequence modeling with attenion - trainer notebook](https://colab.research.google.com/drive/180svV6DcLua-mkfyRyI1nbMNji_74uaq?usp=sharing)[ with ECG data - my notebook](https://colab.research.google.com/drive/1f0vaazUlWX3ThmDZPl8IyjeHNw7s6EcH?usp=sharing)
+
+[Dynamic Content Personalization Using LinUCB  - trainer notebook](https://colab.research.google.com/drive/1iG6h5xo82X3a5sAP83O2zH6CoAt0WMrM?usp=sharing)
