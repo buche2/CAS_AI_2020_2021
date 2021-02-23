@@ -583,6 +583,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [Mastering Continuous Robotic Control with TD3 | Twin Delayed Deep Deterministic Policy Gradients video]/https://www.youtube.com/watch?v=ZhFO8EWADmY)
 
+[Colab cheetah](https://colab.research.google.com/drive/1XcF9Lekdl3VQMK1IbnDQp4ZKFY2HBK0r?usp=sharing)
+
 ### Notes
 
 ## Homework
