@@ -591,6 +591,11 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 ![Graphical reprsentation of TD3](https://drive.google.com/uc?export=view&id=1U6rSeZFIh_QHhvmGg1DKUcSnp5SsgTnk)
 
+Use cases of T3D:
+- machine control
+- trading forecaster
+- sensor control/management (example of insulin: measure = state / inject insulin = action)
+
 ### Notes
 
 [Notes as PDF](https://drive.google.com/file/d/1EJSP8pVNqOLO7BbpNV6clLhfWpb8JGZX/view?usp=sharing)
