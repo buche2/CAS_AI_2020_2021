@@ -581,6 +581,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 ## Theory
 
+[Mastering Continuous Robotic Control with TD3 | Twin Delayed Deep Deterministic Policy Gradients video]/https://www.youtube.com/watch?v=ZhFO8EWADmY)
+
 ### Notes
 
 ## Homework
