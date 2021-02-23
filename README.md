@@ -546,6 +546,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 ### Notes
 
+[Notes as PDF](https://drive.google.com/file/d/1doRfHcFswaJVhUVYb7PkE4iSwhozA_1a/view?usp=sharing)
+
 ## Homework
 
 # 2021-02-16 16. A2C
@@ -561,6 +563,8 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 [Reinforcement learning book](https://drive.google.com/file/d/1N7qjpyiEbJMNvnExAp_AiEG_pOGk0Q9D/view?usp=sharing)
 
 ### Notes
+
+[Notes as PDF](https://drive.google.com/file/d/1lBtQZt8axMyGs6_hFRTg1CUqY81XoM_n/view?usp=sharing)
 
 ## Homework
 [Sequence modeling with attenion - trainer notebook](https://colab.research.google.com/drive/180svV6DcLua-mkfyRyI1nbMNji_74uaq?usp=sharing)[ with ECG data - my notebook](https://colab.research.google.com/drive/1f0vaazUlWX3ThmDZPl8IyjeHNw7s6EcH?usp=sharing)
