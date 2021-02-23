@@ -601,3 +601,6 @@ Use cases of T3D:
 [Notes as PDF](https://drive.google.com/file/d/1EJSP8pVNqOLO7BbpNV6clLhfWpb8JGZX/view?usp=sharing)
 
 ## Homework
+
+- Select a box environment: https://github.com/openai/gym/wiki/Table-of-environments
+- Make a training with 1000 steps like on https://colab.research.google.com/drive/1XcF9Lekdl3VQMK1IbnDQp4ZKFY2HBK0r?usp=sharing 
