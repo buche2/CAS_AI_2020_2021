@@ -1,3 +1,6 @@
+
+CAS about artificial intelligence made at BFH in 2020 and 2021.
+
 - [Ressources](#ressources)
   * [Interative course script](#interative-course-script)
   * [Data](#data)
@@ -83,8 +86,6 @@
   * [Homework](#homework-15)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-CAS about artificial intelligence made at BFH in 2020 and 2021.
   
 # Ressources
 
