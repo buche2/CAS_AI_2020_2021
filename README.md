@@ -589,7 +589,7 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [Colab cheetah](https://colab.research.google.com/drive/1XcF9Lekdl3VQMK1IbnDQp4ZKFY2HBK0r?usp=sharing)[ / other implementation](https://github.com/djbyrne/TD3)
 
-![Graphical reprsentation of TD3](https://drive.google.com/uc?export=view&id=1U6rSeZFIh_QHhvmGg1DKUcSnp5SsgTnk)
+![Graphical representation of TD3](https://drive.google.com/uc?export=view&id=1U6rSeZFIh_QHhvmGg1DKUcSnp5SsgTnk)
 
 Use cases of T3D:
 - machine control
