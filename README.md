@@ -583,7 +583,9 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 ## Theory
 
-[Mastering Continuous Robotic Control with TD3 | Twin Delayed Deep Deterministic Policy Gradients video]/https://www.youtube.com/watch?v=ZhFO8EWADmY)
+[Mastering Continuous Robotic Control with TD3 | Twin Delayed Deep Deterministic Policy Gradients video](https://www.youtube.com/watch?v=ZhFO8EWADmY)
+
+[Reinforcement Learning:An Introduction Stanford](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
 [Colab cheetah](https://colab.research.google.com/drive/1XcF9Lekdl3VQMK1IbnDQp4ZKFY2HBK0r?usp=sharing)[ other implementation](https://github.com/djbyrne/TD3)
 
