@@ -36,27 +36,40 @@ class Agent:
             self.learning_rate_critic
         )
 
+        self.batch_size = 32
+        self.memory_size = 32
+        self.memory = collections.deque(maxlen=self.memory_size)
+
     def get_action(self, state: np.ndarray):
         policy = self.actor(state)[0]
         action = np.random.choice(self.num_actions, p=policy)
         return action
 
-    def update_policy(self, state, action, reward, next_state, done):
-        values = np.zeros(shape=(1, self.num_values)) # (1, 1)
-        advantages = np.zeros(shape=(1, self.num_actions)) # (1, 2)
+    def update_policy(self):
+        # make a batch see https://github.com/cedricmoullet/CAS_AI_2020_2021/blob/main/20210202_DQN/cartPoleDqnAgent.py
+        values = np.zeros(shape=(self.batch_size, self.num_values)) # (1, 1)
+        advantages = np.zeros(shape=(self.batch_size, self.num_actions)) # (1, 2)
 
-        value = self.critic(state)[0]
-        next_value = self.critic(next_state)[0]
+        states, actions, rewards, states_next, dones = zip(*self.memory)
 
-        if done:
-            advantages[0][action] = reward - value
-            values[0][0] = reward
-        else:
-            advantages[0][action] = (reward + self.gamma * next_value) - value
-            values[0][0] = reward + self.gamma * next_value
+        values = self.critic(states)
+        next_values = self.critic(states_next)
 
-        self.actor.fit(state, advantages)
-        self.critic.fit(state, values)
+        for i in range(self.batch_size):
+            action = actions[i]
+            done = dones[i]
+            if done:
+                advantages[i][action] = rewards[i] - values[i]
+                values[i] = rewards[i]
+            else:
+                advantages[i][action] = (rewards[i] + self.gamma * next_values[i]) - values[i]
+                values[i] = rewards[i] + self.gamma * next_values[i]
+
+        self.actor.fit(states, advantages)
+        self.critic.fit(states, values)
+
+    def remember(self, state, action, reward, next_state, done):
+        self.memory.append((state, action, reward, next_state, done))
 
     def train(self, num_episodes: int):
         last_rewards: Deque = collections.deque(maxlen=5)
@@ -73,8 +86,8 @@ class Agent:
                 next_state = np.reshape(next_state, newshape=(1, -1)).astype(np.float32)
                 if done and total_reward < 499:
                     reward = -100.0
-                if (n % 1 == 0):
-                    self.update_policy(state, action, reward, next_state, done)
+                self.remember(state, action, reward, next_state, done)
+                self.update_policy()
                 total_reward += reward
                 state = next_state
 
