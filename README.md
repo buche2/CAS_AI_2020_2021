@@ -587,7 +587,9 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 [Reinforcement Learning:An Introduction Stanford](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
-[Colab cheetah](https://colab.research.google.com/drive/1XcF9Lekdl3VQMK1IbnDQp4ZKFY2HBK0r?usp=sharing)[ other implementation](https://github.com/djbyrne/TD3)
+[Colab cheetah](https://colab.research.google.com/drive/1XcF9Lekdl3VQMK1IbnDQp4ZKFY2HBK0r?usp=sharing)[ / other implementation](https://github.com/djbyrne/TD3)
+
+![Graphical reprsentation of TD3](https://drive.google.com/file/d/1U6rSeZFIh_QHhvmGg1DKUcSnp5SsgTnk/view?usp=sharing)
 
 ### Notes
 
