@@ -109,7 +109,9 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 
 [Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 
-[Deep Learning (CAS machine intelligence, 2019)]()https://tensorchiefs.github.io/dl_course_2018/
+[Deep Learning (CAS machine intelligence, 2019)](https://tensorchiefs.github.io/dl_course_2018/)
+
+[Bluelife AI](https://www.bluelife.ai/)
 
 ## Book
 
