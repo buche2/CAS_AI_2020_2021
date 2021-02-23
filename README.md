@@ -591,4 +591,6 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 
 ### Notes
 
+[Notes as PDF](https://drive.google.com/file/d/1EJSP8pVNqOLO7BbpNV6clLhfWpb8JGZX/view?usp=sharing)
+
 ## Homework
