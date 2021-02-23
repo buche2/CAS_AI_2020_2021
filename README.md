@@ -1,4 +1,3 @@
-- [CAS Artificial intelligence 2020-2021](#cas-artificial-intelligence-2020-2021)
 - [Ressources](#ressources)
   * [Interative course script](#interative-course-script)
   * [Data](#data)
@@ -74,10 +73,16 @@
   * [Theory](#theory-14)
     + [Notes](#notes-13)
   * [Homework](#homework-13)
+- [2021-02-16 16. A2C](#2021-02-16-16-a2c)
+  * [Theory](#theory-15)
+    + [Notes](#notes-14)
+  * [Homework](#homework-14)
+- [2021-02-23 17. Tween Delayed Deep Deterministic Policy Gradient - TD3](#2021-02-23-17-tween-delayed-deep-deterministic-policy-gradient---td3)
+  * [Theory](#theory-16)
+    + [Notes](#notes-15)
+  * [Homework](#homework-15)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 
 CAS about artificial intelligence made at BFH in 2020 and 2021.
   
