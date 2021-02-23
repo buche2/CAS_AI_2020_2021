@@ -570,3 +570,11 @@ Comments about value [iteration example](https://github.com/cedricmoullet/CAS_AI
 [Sequence modeling with attenion - trainer notebook](https://colab.research.google.com/drive/180svV6DcLua-mkfyRyI1nbMNji_74uaq?usp=sharing)[ with ECG data - my notebook](https://colab.research.google.com/drive/1f0vaazUlWX3ThmDZPl8IyjeHNw7s6EcH?usp=sharing)
 
 [Dynamic Content Personalization Using LinUCB  - trainer notebook](https://colab.research.google.com/drive/1iG6h5xo82X3a5sAP83O2zH6CoAt0WMrM?usp=sharing)
+
+# 2021-02-23 17. Tween Delayed Deep Deterministic Policy Gradient - TD3
+
+## Theory
+
+### Notes
+
+## Homework
