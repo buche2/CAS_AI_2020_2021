@@ -620,3 +620,5 @@ Use cases of T3D:
 ### Notes
 
 ## Homework
+
+[Bipedal walker](https://colab.research.google.com/drive/1RxnQdwmToJJjrK9AF7K8Tmafmc3q40yP?usp=sharing) 
