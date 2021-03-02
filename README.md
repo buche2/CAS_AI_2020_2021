@@ -604,3 +604,19 @@ Use cases of T3D:
 
 - Select a box environment: https://github.com/openai/gym/wiki/Table-of-environments
 - Make a training with 1000 steps like on https://colab.research.google.com/drive/1XcF9Lekdl3VQMK1IbnDQp4ZKFY2HBK0r?usp=sharing 
+
+# 2021-03-02 18. Evolution strategy
+
+## Theory
+
+[Evolution strategies](https://openai.com/blog/evolution-strategies/)
+
+[Blog about evolution strategies](https://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
+
+[Colab Evolution Strategies Supervised](https://colab.research.google.com/drive/1CjwyFiNGrvJtav6DcS8KvzeiwI3rk_-4?usp=sharing)
+
+[Colab Evolution Strategies Half Cheetah](https://colab.research.google.com/drive/1ypvCIj4lck2EBhivrkT3vzl_yS0DsIx8?usp=sharing)
+
+### Notes
+
+## Homework
