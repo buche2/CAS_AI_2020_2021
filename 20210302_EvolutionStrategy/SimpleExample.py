@@ -15,5 +15,6 @@ for i in range(1000):
     R[j] = f(w_try)
   A = (R - np.mean(R)) / np.std(R)
   w = w + alpha/(npop*sigma) * np.dot(N.T, A)
+  #print(w - solution)
 
 print(w-solution)
