@@ -119,6 +119,10 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 2. Deeplearning, Ian Goodfellow https://www.deeplearningbook.org/contents/mlp.html
 3. CNN Cheat sheet https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
 
+## Glossary
+
+[Reinforcement learning glossary](https://developers.google.com/machine-learning/glossary/rl)
+
 ## Tricks
 
 Update python packages
