@@ -613,7 +613,7 @@ Use cases of T3D:
 
 [Blog about evolution strategies](https://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
 
-[Colab Evolution Strategies Supervised](https://colab.research.google.com/drive/1CjwyFiNGrvJtav6DcS8KvzeiwI3rk_-4?usp=sharing)
+[Colab Evolution Strategies Supervised / ](https://colab.research.google.com/drive/1CjwyFiNGrvJtav6DcS8KvzeiwI3rk_-4?usp=sharing)[my notebook](https://colab.research.google.com/drive/1DQt5Bfapzctv7x-2FcshYyoRo2sOpV_d?usp=sharing)
 
 [Colab Evolution Strategies Half Cheetah](https://colab.research.google.com/drive/1ypvCIj4lck2EBhivrkT3vzl_yS0DsIx8?usp=sharing)
 
