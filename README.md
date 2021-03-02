@@ -7,6 +7,7 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
   * [Videos](#videos)
   * [Tutorial](#tutorial)
   * [Book](#book)
+  * [Glossary](#glossary)
   * [Tricks](#tricks)
 - [2020-10-20 1.Einführung in AI Grundtechniken: Gradient Descent,partielle Ableitungen, Matrix Algebra, AI Frameworks](#2020-10-20-1einf-hrung-in-ai-grundtechniken--gradient-descent-partielle-ableitungen--matrix-algebra--ai-frameworks)
   * [Theory](#theory)
@@ -84,6 +85,10 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
   * [Theory](#theory-16)
     + [Notes](#notes-15)
   * [Homework](#homework-15)
+- [2021-03-02 18. Evolution strategy](#2021-03-02-18-evolution-strategy)
+  * [Theory](#theory-17)
+    + [Notes](#notes-16)
+  * [Homework](#homework-16)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
   
