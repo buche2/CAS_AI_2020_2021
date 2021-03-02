@@ -621,4 +621,6 @@ Use cases of T3D:
 
 ## Homework
 
-[Bipedal walker](https://colab.research.google.com/drive/1RxnQdwmToJJjrK9AF7K8Tmafmc3q40yP?usp=sharing) 
+[Bipedal walker](https://colab.research.google.com/drive/1RxnQdwmToJJjrK9AF7K8Tmafmc3q40yP?usp=sharing)
+
+[Regression with evolution strategies](https://colab.research.google.com/drive/1aZIUcawHgpEYB5UkGAYKz9O-UxCFYXNp?usp=sharing)
