@@ -128,6 +128,8 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 
 [Reinforcement learning glossary](https://developers.google.com/machine-learning/glossary/rl)
 
+[Graphical glossary](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
+
 ## Tricks
 
 Update python packages
