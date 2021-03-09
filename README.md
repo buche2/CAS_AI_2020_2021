@@ -658,3 +658,5 @@ Use cases of T3D:
 
 ## Homework
 
+[Trend Following Strategie (SMA) - my notebook](https://colab.research.google.com/drive/1gPJ-ghrCCiuWdNlDIdm23f5nbKmbpvo0)
+
