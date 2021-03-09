@@ -652,7 +652,7 @@ Use cases of T3D:
 
 [RL mit TFS - trainer notebook](https://colab.research.google.com/drive/1I5zO3kxjrPjZMx6vW9IhC-7OIYUbOA5I?usp=sharing)
 
-[Q-Learning Algo TraderURL - trainer notebook](https://colab.research.google.com/drive/1l0Ruzbpoj542YWoFv_sz4uR5It3ScPmg?usp=sharing)
+[Q-Learning Algo Trader - trainer notebook](https://colab.research.google.com/drive/1l0Ruzbpoj542YWoFv_sz4uR5It3ScPmg?usp=sharing)
 
 ### Notes
 
@@ -662,3 +662,4 @@ Use cases of T3D:
 
 [Trend Following Strategies revisited , with env and agent - my notebook](https://colab.research.google.com/drive/1DYdt--A53e4RRVEooLE4INOY8-X0ImMn?usp=sharing)
 
+[Q-Learning trader - my notebook](https://colab.research.google.com/drive/1rtdWbWT0Rtz44Y4fFoc_thZ_tEG0Wvqx?usp=sharing
