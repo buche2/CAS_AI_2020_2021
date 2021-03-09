@@ -642,6 +642,10 @@ Use cases of T3D:
 
 [Policy gradient algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
 
+[Facebook AI prophet](https://facebook.github.io/prophet/)
+
+[Neural prophet](https://neuralprophet.com/)
+
 [Trend Following Strategie (SMA) - trainer notebook](https://colab.research.google.com/drive/14abCXVL2SXJG2ip0uyIccnW8eRJU3qrP?usp=sharing)
 
 [RL mit TFS - trainer notebook](https://colab.research.google.com/drive/1I5zO3kxjrPjZMx6vW9IhC-7OIYUbOA5I?usp=sharing)
