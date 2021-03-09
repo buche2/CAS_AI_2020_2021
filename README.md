@@ -635,3 +635,12 @@ Use cases of T3D:
 [Bipedal walker](https://colab.research.google.com/drive/1RxnQdwmToJJjrK9AF7K8Tmafmc3q40yP?usp=sharing)
 
 [Regression with evolution strategies](https://colab.research.google.com/drive/1aZIUcawHgpEYB5UkGAYKz9O-UxCFYXNp?usp=sharing)
+
+# 2021-03-09 19. RL mit Trend Following Strategie
+
+## Theory
+
+### Notes
+
+## Homework
+
