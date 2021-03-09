@@ -662,4 +662,4 @@ Use cases of T3D:
 
 [Trend Following Strategies revisited , with env and agent - my notebook](https://colab.research.google.com/drive/1DYdt--A53e4RRVEooLE4INOY8-X0ImMn?usp=sharing)
 
-[Q-Learning trader - my notebook](https://colab.research.google.com/drive/1rtdWbWT0Rtz44Y4fFoc_thZ_tEG0Wvqx?usp=sharing
+[Q-Learning trader - my notebook](https://colab.research.google.com/drive/1rtdWbWT0Rtz44Y4fFoc_thZ_tEG0Wvqx?usp=sharing)
