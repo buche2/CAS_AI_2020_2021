@@ -640,6 +640,12 @@ Use cases of T3D:
 
 ## Theory
 
+[Trend Following Strategie (SMA) - trainer notebook](https://colab.research.google.com/drive/14abCXVL2SXJG2ip0uyIccnW8eRJU3qrP?usp=sharing)
+
+[RL mit TFS - trainer notebook](https://colab.research.google.com/drive/1I5zO3kxjrPjZMx6vW9IhC-7OIYUbOA5I?usp=sharing)
+
+[Q-Learning Algo TraderURL - trainer notebook](https://colab.research.google.com/drive/1l0Ruzbpoj542YWoFv_sz4uR5It3ScPmg?usp=sharing)
+
 ### Notes
 
 ## Homework
