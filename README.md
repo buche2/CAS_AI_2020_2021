@@ -660,3 +660,5 @@ Use cases of T3D:
 
 [Trend Following Strategie (SMA) - my notebook](https://colab.research.google.com/drive/1gPJ-ghrCCiuWdNlDIdm23f5nbKmbpvo0)
 
+[Trend Following Strategies revisited , with env and agent - my notebook](https://colab.research.google.com/drive/1DYdt--A53e4RRVEooLE4INOY8-X0ImMn?usp=sharing)
+
