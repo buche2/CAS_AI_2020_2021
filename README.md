@@ -674,6 +674,8 @@ Use cases of T3D:
 
 ## Theory
 
+[Grokking Deep Reinforcement Learning](https://github.com/mimoralea/gdrl)
+
 ### Notes
 
 ## Homework
