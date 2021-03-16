@@ -630,6 +630,8 @@ Use cases of T3D:
 
 ### Notes
 
+[Notes as PDF](https://drive.google.com/file/d/1hT95lRGEQHrp_BXR8O8et9Fk-jZ0PU-R/view?usp=sharing)
+
 ## Homework
 
 [Bipedal walker](https://colab.research.google.com/drive/1RxnQdwmToJJjrK9AF7K8Tmafmc3q40yP?usp=sharing)
@@ -656,6 +658,8 @@ Use cases of T3D:
 
 ### Notes
 
+[Notes as PDF](https://drive.google.com/file/d/1YX39r5WAVSJ-yNRRJPokxv7DTWKt0FgQ/view?usp=sharing)
+
 ## Homework
 
 [Trend Following Strategie (SMA) - my notebook](https://colab.research.google.com/drive/1gPJ-ghrCCiuWdNlDIdm23f5nbKmbpvo0)
@@ -665,3 +669,11 @@ Use cases of T3D:
 [Q-Learning trader - my notebook](https://colab.research.google.com/drive/1rtdWbWT0Rtz44Y4fFoc_thZ_tEG0Wvqx?usp=sharing)
 
 [DQN trader - my notebook](https://colab.research.google.com/drive/1aP9xwLH_54p3sPhhwFFKVUTvh36N2a7O?usp=sharing)
+
+# 2021-03-16 20. Q-Learning Lab
+
+## Theory
+
+### Notes
+
+## Homework
