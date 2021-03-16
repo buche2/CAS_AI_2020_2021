@@ -674,6 +674,8 @@ Use cases of T3D:
 
 ## Theory
 
+[Deep reinforcement learning book](https://livebook.manning.com/book/grokking-deep-reinforcement-learning/)
+
 [Grokking Deep Reinforcement Learning](https://github.com/mimoralea/gdrl)
 
 ### Notes
