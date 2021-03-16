@@ -689,3 +689,5 @@ Use cases of T3D:
 ### Notes
 
 ## Homework
+
+[Exam 2020](https://colab.research.google.com/drive/1CCxJwPmL27LK28e894fNvPOzOF19zoeQ?usp=sharing)
