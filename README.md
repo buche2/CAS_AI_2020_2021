@@ -89,9 +89,17 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
   * [Theory](#theory-17)
     + [Notes](#notes-16)
   * [Homework](#homework-16)
+- [2021-03-09 19. RL mit Trend Following Strategie](#2021-03-09-19-rl-mit-trend-following-strategie)
+  * [Theory](#theory-18)
+    + [Notes](#notes-17)
+  * [Homework](#homework-17)
+- [2021-03-16 20. Q-Learning Lab](#2021-03-16-20-q-learning-lab)
+  * [Theory](#theory-19)
+    + [Notes](#notes-18)
+  * [Homework](#homework-18)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-  
+
 # Ressources
 
 ## Interative course script
