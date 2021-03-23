@@ -696,8 +696,10 @@ Use cases of T3D:
 
 # 2021-03-23 21. Klausur Vorbereitung I
 
-- 2 exercises: 1 deep learning / 1 reinforcement learning
+2 exercises: 1 deep learning / 1 reinforcement learning
 
 [Introduction to gradients and automatic differentiation](https://colab.research.google.com/drive/1GeU56Ol_Ino9L7ObAUDH-AW0gZ-7Jg2F?usp=sharing)
 
 [Basic training loops](https://colab.research.google.com/drive/1bR_CnCVT19s6Kg0XS7c_0q_qjC_XbBZu?usp=sharing)
+
+[Basic training loops - multidimensional](https://colab.research.google.com/drive/1Y_kZDffKeXzsa3V6ASOJupLOskH8_GlG?usp=sharing)
