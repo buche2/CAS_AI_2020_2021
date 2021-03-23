@@ -703,3 +703,5 @@ Use cases of T3D:
 [Basic training loops](https://colab.research.google.com/drive/1bR_CnCVT19s6Kg0XS7c_0q_qjC_XbBZu?usp=sharing)
 
 [Basic training loops - multidimensional](https://colab.research.google.com/drive/1Y_kZDffKeXzsa3V6ASOJupLOskH8_GlG?usp=sharing)
+
+[LSTM & GRU en schémas](https://penseeartificielle.fr/comprendre-lstm-gru-fonctionnement-schema/)
