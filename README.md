@@ -688,6 +688,8 @@ Use cases of T3D:
 
 ### Notes
 
+[Notes as PDF](https://drive.google.com/file/d/1OHa7mNllH5-Qo6UcekcXiOXB5o0cQoEo/view?usp=sharing)
+
 ## Homework
 
 [Exam 2020](https://colab.research.google.com/drive/1CCxJwPmL27LK28e894fNvPOzOF19zoeQ?usp=sharing)
