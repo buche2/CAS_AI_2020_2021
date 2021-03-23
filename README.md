@@ -695,3 +695,5 @@ Use cases of T3D:
 [Exam 2020](https://colab.research.google.com/drive/1CCxJwPmL27LK28e894fNvPOzOF19zoeQ?usp=sharing)
 
 # 2021-03-23 21. Klausur Vorbereitung I
+
+- 2 exercises: 1 deep learning / 1 reinforcement learning
