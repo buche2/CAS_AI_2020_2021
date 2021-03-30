@@ -709,3 +709,10 @@ Use cases of T3D:
 ### Notes
 
 [Notes as PDF](https://drive.google.com/file/d/1xCmtK05xRNEX3grdttO0PO-Z1ZkDZOed/view?usp=sharing)
+
+# 2021-03-30 22. Klausur Vorbereitung II
+
+### Notes
+
+[Notes as PDF](xxx)
+
