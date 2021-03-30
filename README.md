@@ -717,10 +717,10 @@ Use cases of T3D:
 
 # 2021-03-30 22. Klausur Vorbereitung II - reinforcement learning
 
-- Markov property: the probability of the next state, given the current state and current action, will be the same as if you give the entire history of interactions (states and actions)
+- **Markov property** is the probability of the next state, given the current state and current action, will be the same as if you give the entire history of interactions (states and actions)
 - | means "gegeben"
-- Transition function: it is defined as the probability fo transitioning to state s' at time step t given action a was selected on state s in the previous time step t-1. Given these are the probabilities, we expect the sum of the probabilities across all possible next states to sum to 1. Thta's true for all states s in the set of states s, and all actions a in the set of actions available in state s.
-- Reward function can be defined as a function that takes in a state-action pair. Andm it's the expectation of reward at time step t, given the state-action pair in the previous time step. But, it can also be defined as a function that takes a full transition tuple s, a, s'. And it's also defined as the expectation, but now given that transition tuple. the reward at time step t comes from a set of all rewards R, whihc is a subset of all real numbers. 
+- **Transition function** is defined as the probability fo transitioning to state s' at time step t given action a was selected on state s in the previous time step t-1. Given these are the probabilities, we expect the sum of the probabilities across all possible next states to sum to 1. Thta's true for all states s in the set of states s, and all actions a in the set of actions available in state s.
+- **Reward function** can be defined as a function that takes in a state-action pair. Andm it's the expectation of reward at time step t, given the state-action pair in the previous time step. But, it can also be defined as a function that takes a full transition tuple s, a, s'. And it's also defined as the expectation, but now given that transition tuple. the reward at time step t comes from a set of all rewards R, whihc is a subset of all real numbers. 
 
 ### Notes
 
