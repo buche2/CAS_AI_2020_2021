@@ -136,6 +136,7 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 1. Machine Learning, Tom Mitchell, McGraw Hill, 1997 http://www.cs.cmu.edu/~tom/mlbook.html
 2. Deeplearning, Ian Goodfellow https://www.deeplearningbook.org/contents/mlp.html
 3. CNN Cheat sheet https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
+4. Deep reinforcement learning, Miguel Morales: https://drive.google.com/file/d/1VWO0Ji-iK5Z7iqe8XwgOivZLC_SCXIL8/view?usp=sharing
 
 ## Glossary
 
@@ -721,6 +722,8 @@ Use cases of T3D:
 - | means "gegeben"
 - **Transition function** is defined as the probability fo transitioning to state s' at time step t given action a was selected on state s in the previous time step t-1. Given these are the probabilities, we expect the sum of the probabilities across all possible next states to sum to 1. Thta's true for all states s in the set of states s, and all actions a in the set of actions available in state s.
 - **Reward function** can be defined as a function that takes in a state-action pair. Andm it's the expectation of reward at time step t, given the state-action pair in the previous time step. But, it can also be defined as a function that takes a full transition tuple s, a, s'. And it's also defined as the expectation, but now given that transition tuple. the reward at time step t comes from a set of all rewards R, whihc is a subset of all real numbers. 
+- MDP: S, A, T, R, Stheta, gamma, horizoon
+- POMDP: S, A, T, R, Stheta, gamma, horizon, observation, epsilon
 
 ### Notes
 
