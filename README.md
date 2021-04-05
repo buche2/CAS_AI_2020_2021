@@ -99,7 +99,7 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
   * [Homework](#homework-18)
 - [2021-03-23 21. Klausur Vorbereitung I](#2021-03-23-21-klausur-vorbereitung-i)
     + [Notes](#notes-19)
-- [2021-03-30 22. Klausur Vorbereitung II](#2021-03-30-22-klausur-vorbereitung-ii)
+- [2021-03-30 22. Klausur Vorbereitung II - reinforcement learning](#2021-03-30-22-klausur-vorbereitung-ii---reinforcement-learning)
     + [Notes](#notes-20)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
