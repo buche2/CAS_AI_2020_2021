@@ -144,6 +144,10 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 
 [Graphical glossary](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
 
+1. **Sample**: A sample is a single row of data (=an instance, an observation, an input vector, or a feature vector.).
+2. **Batch size**: The batch size defines the number of samples to work through before updating the internal model parameters.
+3. **Epoch**: The number of epochs defines the number times that the learning algorithm will work through the entire training dataset.
+
 ## Tricks
 
 Update python packages
