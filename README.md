@@ -150,6 +150,9 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 2. **Batch size**: The batch size defines the number of samples to work through before updating the internal model parameters.
 3. **Epoch**: The number of epochs defines the number times that the learning algorithm will work through the entire training dataset.
 4. **Gradient descent**: Gradient descent is an optimization algorithm used to find the values of parameters (coefficients) of a function (f) that minimizes a cost function (cost).
+5. **Deep learning algorithms**
+
+![image](https://user-images.githubusercontent.com/319676/113597822-88aa5300-963c-11eb-9ba7-036871d09597.png)
 
 ## Tricks
 
@@ -184,6 +187,7 @@ General AI function: Y = wX + b
 
 |Doc| |
 |-|-|
+| ![Neuron](https://drive.google.com/uc?export=view&id=1DwdFEqoWczZEbDKUhDQhCEMDo7SZGNxr)| ![General AI function](https://drive.google.com/uc?export=view&id=14XPXX2nXUVCz81rqK5ckGQ5UzJRzR-fC) | 
 | ![Neuron](https://drive.google.com/uc?export=view&id=1DwdFEqoWczZEbDKUhDQhCEMDo7SZGNxr) | ![General AI function](https://drive.google.com/uc?export=view&id=14XPXX2nXUVCz81rqK5ckGQ5UzJRzR-fC) | 
 | ![General AI function](https://drive.google.com/uc?export=view&id=1_XggjXSH_h0OYAoQxD_dQrs1g09yZKHu) | ![Chain rule](https://drive.google.com/uc?export=view&id=1Vp2-yuAsETZs7lAdVvE_PE0WD31uEUkb) |
 | ![m derivative](https://drive.google.com/uc?export=view&id=19go_kg4CVdg-1tcDrP1LjFkeq5aX0mYq) | ![MSE / loss](https://drive.google.com/uc?export=view&id=1uTUqh4q_4N3ol0JtYLidJMlltD9HkcP6) |
