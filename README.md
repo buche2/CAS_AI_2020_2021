@@ -127,6 +127,8 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 
 [Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 
+[Linear Regression in Python with Cost function and Gradient descent](https://purnasaigudikandula.medium.com/linear-regression-in-python-with-cost-function-and-gradient-descent-bde9a8d2626)
+
 [Deep Learning (CAS machine intelligence, 2019)](https://tensorchiefs.github.io/dl_course_2018/)
 
 [Bluelife AI](https://www.bluelife.ai/)
@@ -147,6 +149,7 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 1. **Sample**: A sample is a single row of data (=an instance, an observation, an input vector, or a feature vector.).
 2. **Batch size**: The batch size defines the number of samples to work through before updating the internal model parameters.
 3. **Epoch**: The number of epochs defines the number times that the learning algorithm will work through the entire training dataset.
+4. **Gradient descent**: Gradient descent is an optimization algorithm used to find the values of parameters (coefficients) of a function (f) that minimizes a cost function (cost).
 
 ## Tricks
 
