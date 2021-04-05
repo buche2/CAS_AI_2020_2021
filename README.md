@@ -135,7 +135,7 @@ CAS about artificial intelligence made at BFH in 2020 and 2021.
 
 1. Machine Learning, Tom Mitchell, McGraw Hill, 1997 http://www.cs.cmu.edu/~tom/mlbook.html
 2. Deeplearning, Ian Goodfellow https://www.deeplearningbook.org/contents/mlp.html
-3. CNN Cheat sheet https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
+3. Stanford Cheat sheets about AI https://stanford.edu/~shervine/teaching/
 4. Deep reinforcement learning, Miguel Morales: https://drive.google.com/file/d/1VWO0Ji-iK5Z7iqe8XwgOivZLC_SCXIL8/view?usp=sharing
 
 ## Glossary
