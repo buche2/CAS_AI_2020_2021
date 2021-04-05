@@ -722,10 +722,12 @@ Use cases of T3D:
 - | means "gegeben"
 - **Transition function** is defined as the probability fo transitioning to state s' at time step t given action a was selected on state s in the previous time step t-1. Given these are the probabilities, we expect the sum of the probabilities across all possible next states to sum to 1. Thta's true for all states s in the set of states s, and all actions a in the set of actions available in state s.
 - **Reward function** can be defined as a function that takes in a state-action pair. Andm it's the expectation of reward at time step t, given the state-action pair in the previous time step. But, it can also be defined as a function that takes a full transition tuple s, a, s'. And it's also defined as the expectation, but now given that transition tuple. the reward at time step t comes from a set of all rewards R, whihc is a subset of all real numbers. 
-- MDP: S, A, T, R, Stheta, gamma, horizoon
+- MDP: S, A, T, R, Stheta, gamma, horizon
 - POMDP: S, A, T, R, Stheta, gamma, horizon, observation, epsilon
 
 ### Notes
 
-[Notes as PDF](xxx)
+[Notes as PDF](https://drive.google.com/file/d/1QmifrAG5dr-L7llQwrZnOHJ-swrA24Og/view?usp=sharing)
+
+[Full notes as PDF](https://drive.google.com/file/d/1VZ4MLgw5V6weUAe5g9axkjtLq_Xz1I46/view?usp=sharing)
 
