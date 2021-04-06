@@ -747,3 +747,5 @@ Use cases of T3D:
 [Original exam](https://colab.research.google.com/drive/1lY8FcMekUKQsWnEHAcWpsXGO1Ls_dR2f?usp=sharing)
 
 [My exam 2020-2021](https://colab.research.google.com/drive/1kh1QQSEIY5oylffqg4LmGxm7RpWrTArm#scrollTo=qkIbjofvmda5)
+
+[DQN tutorial](https://colab.research.google.com/github/tensorflow/agents/blob/master/docs/tutorials/1_dqn_tutorial.ipynb)
