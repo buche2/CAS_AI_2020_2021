@@ -742,3 +742,8 @@ Use cases of T3D:
 
 [Full notes as PDF](https://drive.google.com/file/d/1VZ4MLgw5V6weUAe5g9axkjtLq_Xz1I46/view?usp=sharing)
 
+# 2021-04-06 23. Exam
+
+[Original exam](https://colab.research.google.com/drive/1lY8FcMekUKQsWnEHAcWpsXGO1Ls_dR2f?usp=sharing)
+
+[My exam 2020-2021](https://colab.research.google.com/drive/1kh1QQSEIY5oylffqg4LmGxm7RpWrTArm#scrollTo=qkIbjofvmda5)
